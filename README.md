@@ -51,7 +51,7 @@
 
 
 
-<h1 align="left" style="margin-top:30px;">⚡ Weekly Stats</h1>
+<h1 align="left">⚡ Weekly Stats</h1>
 
 [![Python Hub's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub)](https://github.com/anuraghazra/github-readme-stats)
 
