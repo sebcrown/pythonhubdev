@@ -50,13 +50,12 @@
 <img alt="Python Hub's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pythonhubpy&count_private=true&show_icons=true&hide_border=true&include_all_commits=true"/>
 
 
-<details>
 
-<summary>⚡ Weekly Stats</summary>
+<h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub"/>
  
-</details>
+
 
 
 [youtube]: https://www.youtube.com/c/pythonhub
