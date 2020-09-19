@@ -32,9 +32,10 @@
 [<img align="left" style="margin-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
 [<img align="left" style="margin-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
+<br>
+<h1 align="left">Github Stats</h1>
 
-<h1>My Github Stats</h1>
-![Python Hub's github stats](https://github-readme-stats.vercel.app/api?username=pythonhubpy&show_icons=true&theme=radical)
+<img align="left" alt="Python Hub's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pythonhubpy&count_private=true&show_icons=true&hide_border=true"/>
 
 [youtube]: https://www.youtube.com/c/pythonhub
 [instagram]: https://www.instagram.com/pythonhub.py
