@@ -18,27 +18,28 @@
 * ☕ I love coffee
 * 🎉 Fun fact: I love to draw and listen to music
 
-<h1>Tools and Frameworks</h1>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="30" width="30">
-<img align="left" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" height="20" width="70">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" height="30" width="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="30" width="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="30" width="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="30" width="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="30" width="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="30" width="30">
-<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" width="30">
-<img align="left" src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg" height="30" width="30">
-<img align="left" src="https://www.edrawsoft.com/symbols/awscomputeandnetworking/amazonec2.png" height="30" width="30">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" height="30" width="30">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" height="30" width="30">
-<img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
 
-<h1>Let's Connect</h1>
+<h1>Skills 🚀</h1>
 
-[<img align="left" style="margin-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-[<img align="left" style="margin-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
-[<img align="left" style="margin-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+![Website](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+[![Website](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)][youtube]
+![Website](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
+![Website](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Website](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Website](https://img.shields.io/badge/FIREBASE-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
+![Website](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![Website](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
+
+<h1>Tools ⚙</h1>
+
+![Website](https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Website](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Website](https://img.shields.io/badge/AWSEC2-%23F05032.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Website](https://img.shields.io/badge/HEROKU-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+![Website](https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
+![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Website](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
 
 <br>
 <h1 align="left">Github Stats</h1>
