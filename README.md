@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I am Vetrichelvan - aka Python Hub</h1>
+<h1>Hey there 👋, I am Vetrichelvan - aka Python Hub</h1>
 
 [![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
