@@ -50,12 +50,13 @@
 <img align="left" alt="Python Hub's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pythonhubpy&count_private=true&show_icons=true&hide_border=true&include_all_commits=true"/>
 
 
-<h1 align="bottom" style="margin-top:30px;">⚡ Weekly Stats</h1>
+<details>
 
-[![Python Hub's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub)](https://github.com/anuraghazra/github-readme-stats)
+    <summary>:zap:Weekly Stats</summary>
 
-
-
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub"/>
+ 
+</details>
 
 
 [youtube]: https://www.youtube.com/c/pythonhub
