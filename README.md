@@ -25,3 +25,16 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" height="30" width="30">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" height="30" width="30">
 <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
+
+<h2>Let's Connect</h2>
+<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>[instagram]
+<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>[youtube]
+<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[linkedin]
+
+<style>img{margin-right: 10px}</style>
+
+[youtube]: https://www.youtube.com/c/pythonhub
+[instagram]: https://www.instagram.com/pythonhub.py
+[linkedin]: https://www.linkedin.com/in/vetrichelvan-b-a327161b0
+
+
