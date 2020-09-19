@@ -41,17 +41,17 @@
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Website](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
 
-<h1 align="left" style="margin-top:30px;">⚡ Most Used Languages</h1>
+<h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6)](https://github.com/pythonhubpy/github-readme-stats)
 
-<h1 align="left">⚡ Github Stats</h1>
+<h1>⚡ Github Stats</h1>
 
 <img align="left" alt="Python Hub's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pythonhubpy&count_private=true&show_icons=true&hide_border=true&include_all_commits=true"/>
 
 
 <br>
-<h1 align="left">⚡ Weekly Stats</h1>
+<h1>⚡ Weekly Stats</h1>
 
 [![Python Hub's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub)](https://github.com/anuraghazra/github-readme-stats)
 
