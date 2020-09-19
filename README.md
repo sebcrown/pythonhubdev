@@ -22,4 +22,4 @@
 <img src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg" height="50" width="50">
 <img src="https://www.edrawsoft.com/symbols/awscomputeandnetworking/amazonec2.png" height="50" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" height="50" width="50">
-<img src="https://www.edrawsoft.com/symbols/awscomputeandnetworking/amazonec2.png" height="50" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" height="50" width="50">
