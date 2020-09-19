@@ -20,4 +20,4 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="100" width="100">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="100" width="100">
 <img src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg" height="100" width="100">
-
+<img src="https://www.edrawsoft.com/symbols/awscomputeandnetworking/amazonec2.png" height="100" width="100">
