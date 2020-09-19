@@ -1,5 +1,13 @@
 <h1 align="center">Hey there 👋, I am Vetrichelvan - aka Python Hub</h1>
 
+[![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://github.com/pythonhubpy)
+[![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](pythonhub.py@gmail.com)
+
+
+
+
 <h2>I'm a Student, Developer, and Teacher</h2>
 
 * 🎯 Currenty working on [Flutter Course](https://www.youtube.com/watch?v=SaqWcqH6r0A&list=PLEfCGAjasNu9LTKQK2TocCqH6FZtC6Y4m)
@@ -10,7 +18,7 @@
 * ☕ I love coffee
 * 🎉 Fun fact: I love to draw and listen to music
 
-<h2>Tools and Frameworks</h2>
+<h1>Tools and Frameworks</h1>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="30" width="30">
 <img align="left" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" height="20" width="70">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" height="30" width="30">
@@ -26,7 +34,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" height="30" width="30">
 <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
 
-<h2>Let's Connect</h2>
+<h1>Let's Connect</h1>
 
 [<img align="left" style="margin-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" style="margin-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
