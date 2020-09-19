@@ -47,12 +47,12 @@
 
 <h1>⚡ Github Stats</h1>
 
-<img align="left" alt="Python Hub's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pythonhubpy&count_private=true&show_icons=true&hide_border=true&include_all_commits=true"/>
+<img alt="Python Hub's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pythonhubpy&count_private=true&show_icons=true&hide_border=true&include_all_commits=true"/>
 
 
 <details>
 
-<summary>:zap:Weekly Stats</summary>
+<summary>⚡ Weekly Stats</summary>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub"/>
  
