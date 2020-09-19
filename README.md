@@ -19,11 +19,5 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="100" width="100">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="100" width="100">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="100" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg
-" height="100" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png
-" height="100" width="100">
-<img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg
-" height="100" width="100">
 <img src="https://brand.heroku.com/static/media/heroku-logo-solid.ab0c1b46.svg" height="100" width="100">
 
