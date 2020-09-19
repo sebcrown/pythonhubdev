@@ -52,9 +52,9 @@
 
 <details>
 
-    <summary>:zap:Weekly Stats</summary>
+<summary>:zap:Weekly Stats</summary>
 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub"/>
  
 </details>
 
