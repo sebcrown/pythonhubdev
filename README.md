@@ -6,7 +6,7 @@
 * 🏫 Learning Flutter State Management, CSS, and Java🔥🔥
 * 🥅 To become a Flutter Developer 👩‍💻
 * 👯‍♂️ I am looking to collaborate with other developers
-* 📅 I create contents on [Youtube](https://www.youtube.com/c/pythonhub) and [Instagram](https://www.instagram.com/pythonhub.py/)
+* 📅 I create contents on [Youtube][youtube] and [Instagram][instagram]
 * ☕ I love coffee
 * 🎉 Fun fact: I love to draw and listen to music
 
@@ -27,9 +27,10 @@
 <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
 
 <h2>Let's Connect</h2>
-<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>[instagram]
-<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>[youtube]
-<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[linkedin]
+
+[<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
+[<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 <style>img{margin-right: 10px}</style>
 
