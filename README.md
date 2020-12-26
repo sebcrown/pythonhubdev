@@ -43,9 +43,7 @@
 
 <h1>⚡ Github Stats</h1>
 
-<img alt="Python Hub's Github Stats" src="https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&
-count_private=true&include_all_commits=true&
-show_icons=true&theme=dracula&
+<img alt="Python Hub's Github Stats" src="https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&
 hide_border=true"/>
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
