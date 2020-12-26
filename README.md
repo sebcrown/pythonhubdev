@@ -43,7 +43,7 @@
 
 <h1>⚡ Github Stats</h1>
 
-[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true)](https://github.com/pythonhubpy/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/pythonhubpy/github-readme-stats)
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
