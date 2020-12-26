@@ -39,12 +39,11 @@
 
 <h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6)](https://github.com/pythonhubpy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6)](https://github.com/pythonhubpy/github-readme-stats)
 
 <h1>⚡ Github Stats</h1>
 
-<img alt="Python Hub's Github Stats" src="https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&
-hide_border=true"/>
+[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true)](https://github.com/pythonhubpy/github-readme-stats)
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
