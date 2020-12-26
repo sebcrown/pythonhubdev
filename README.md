@@ -43,12 +43,14 @@
 
 <h1>⚡ Github Stats</h1>
 
-<img alt="Python Hub's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pythonhubpy&count_private=true&show_icons=true&hide_border=true&include_all_commits=true"/>
+<img alt="Python Hub's Github Stats" src="https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&
+count_private=true&include_all_commits=true&
+show_icons=true&theme=dracula&
+hide_border=true"/>
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub"/>
-
 
 [youtube]: https://www.youtube.com/c/pythonhub
 [instagram]: https://www.instagram.com/pythonhub.py
