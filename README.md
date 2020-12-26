@@ -47,7 +47,7 @@
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PythonHub"/>
+<img src="https://github-readme-stats.pythonhubpy.vercel.app/api/wakatime?username=PythonHub"/>
 
 [youtube]: https://www.youtube.com/c/pythonhub
 [instagram]: https://www.instagram.com/pythonhub.py
