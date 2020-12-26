@@ -39,7 +39,7 @@
 
 <h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
-[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6)](https://github.com/pythonhubpy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6&theme=dracula)](https://github.com/pythonhubpy/github-readme-stats)
 
 <h1>⚡ Github Stats</h1>
 
@@ -47,7 +47,7 @@
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
-<img src="https://github-readme-stats.pythonhubpy.vercel.app/api/wakatime?username=PythonHub"/>
+<img src="https://github-readme-stats.pythonhubpy.vercel.app/api/wakatime?username=PythonHub&theme=dracula"/>
 
 [youtube]: https://www.youtube.com/c/pythonhub
 [instagram]: https://www.instagram.com/pythonhub.py
