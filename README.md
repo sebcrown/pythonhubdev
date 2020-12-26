@@ -26,16 +26,21 @@
 ![Website](https://img.shields.io/badge/FIREBASE-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![Website](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Website](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Website](https://img.shields.io/badge/Apache%20Airflow%20-%23007A88.svg?&style=for-the-badge&logo=Apache-Airflow&logoColor=white)
+
 
 <h1>Tools ⚙</h1>
 
+![Website](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![Website](https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Website](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Website](https://img.shields.io/badge/AWSEC2-%23F05032.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Website](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Website](https://img.shields.io/badge/AWS%20Lambda-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Website](https://img.shields.io/badge/HEROKU-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Website](https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Website](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 <h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
