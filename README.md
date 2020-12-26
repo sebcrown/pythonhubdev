@@ -39,15 +39,16 @@
 
 <h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
-[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6&theme=dracula)](https://github.com/pythonhubpy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6&theme=dracula&hide_border=true)](https://github.com/pythonhubpy/)
 
 <h1>⚡ Github Stats</h1>
 
-[![GitHub Stats](https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/pythonhubpy/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/pythonhubpy/)
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
-<img src="https://github-readme-stats.pythonhubpy.vercel.app/api/wakatime?username=PythonHub&theme=dracula"/>
+[![GitHub Stats](https://github-readme-stats.pythonhubpy.vercel.app/api/wakatime?username=PythonHub&theme=dracula&hide_border=true)](https://github.com/pythonhubpy/)
+
 
 [youtube]: https://www.youtube.com/c/pythonhub
 [instagram]: https://www.instagram.com/pythonhub.py
