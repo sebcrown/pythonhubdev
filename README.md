@@ -48,7 +48,7 @@
 
 <h1>⚡ Github Stats</h1>
 
-[![GitHub Stats](https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/pythonhubpy/)
+[![GitHub Stats](https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/pythonhubpy/)
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
