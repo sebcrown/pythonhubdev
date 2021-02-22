@@ -52,7 +52,7 @@
 
 <h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
 
-[![Weekly stats](https://github-readme-stats.pythonhubpy.vercel.app/api/wakatime?username=Vetrichelvan&theme=dracula&hide_border=true&layout=compact)](https://github.com/pythonhubpy/)
+[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vetrichelvan&theme=dracula&hide_border=true&layout=compact)](https://github.com/pythonhubpy/)
 
 
 [youtube]: https://www.youtube.com/c/pythonhub
