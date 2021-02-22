@@ -44,7 +44,7 @@
 
 <h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
 
-[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6&theme=dracula&hide_border=true)](https://github.com/pythonhubpy/)
+[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6&hide_border=true)](https://github.com/pythonhubpy/)
 
 <h1>⚡ Github Stats</h1>
 
