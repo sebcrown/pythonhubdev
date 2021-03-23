@@ -2,7 +2,8 @@
 
 [![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://github.com/pythonhubpy)
+[![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")][youtube]
+[![Website](https://img.shields.io/badge/twitter-%23FFF.svg?&style=for-the-badge&logo=twitter&logoColor=white")][twitter]
 [![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](pythonhub.py@gmail.com)
 
 <h2>I'm a Student, Developer, and Teacher</h2>
@@ -11,7 +12,7 @@
 - 🏫 Learning Flutter State Management, CSS, and Java🔥🔥
 - 🥅 To become a Flutter Developer 👩‍💻
 - 👯‍♂️ I am looking to collaborate with other developers
-- 📅 I create contents on [Youtube][youtube] and [Instagram][instagram]
+- 📅 I create contents on [Youtube][youtube], [Instagram][instagram] and [Twitter][twitter]
 - ☕ I love coffee
 - 🎉 Fun fact: I love to draw and listen to music
 
@@ -22,11 +23,13 @@
 ![Website](https://img.shields.io/badge/Django%20-%234ea94b.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![Website](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![Website](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Website](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![Website](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Website](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Website](https://img.shields.io/badge/FIREBASE-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![Website](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Website](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Website](https://img.shields.io/badge/Apache%20Airflow%20-%23007A88.svg?&style=for-the-badge&logo=Apache-Airflow&logoColor=white)
+![Website](https://img.shields.io/badge/Apache%20Airflow%20-%23017CEE.svg?&style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 
 
 <h1>Tools ⚙</h1>
@@ -57,4 +60,5 @@
 
 [youtube]: https://www.youtube.com/c/pythonhub
 [instagram]: https://www.instagram.com/pythonhub.py
-[linkedin]: https://www.linkedin.com/in/vetrichelvan-b-a327161b0
+[linkedin]: https://www.linkedin.com/in/vetrichelvan
+[twitter]: https://twitter.com/pythonhubdev
