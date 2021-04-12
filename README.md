@@ -11,7 +11,7 @@
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pythonhubpy?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
-<br>
+
 <h2>I'm a Student, Developer, and Teacher</h2>
 
 - 🎯 Currenty working on [Flutter Course][youtube]
