@@ -16,6 +16,8 @@
 - ☕ I love coffee
 - 🎉 Fun fact: I love to draw and listen to music
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pythonhubpy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1>Skills 🚀</h1>
 
 ![Website](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
