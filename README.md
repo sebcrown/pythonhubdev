@@ -1,22 +1,30 @@
-<h1>Hey there 👋, I am Vetrichelvan - aka Python Hub</h1>
+<h1 align="center">
+  Welcome to Vetrichelvan's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-[![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")][youtube]
-[![Website](https://img.shields.io/badge/twitter-%23FFF.svg?&style=for-the-badge&logo=twitter&logoColor=white")][twitter]
-[![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](pythonhub.py@gmail.com)
 
+<p align="center" style="margin-top:30px">
+  <a href="https://twitter.com/pythonhubdev">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/pythonhubdev?color=1DA1F2&labelColor=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/pythonhubpy">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pythonhubpy?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Follow"/></a>
+</p>
+
+<br>
 <h2>I'm a Student, Developer, and Teacher</h2>
 
-- 🎯 Currenty working on [Flutter Course](https://www.youtube.com/watch?v=SaqWcqH6r0A&list=PLEfCGAjasNu9LTKQK2TocCqH6FZtC6Y4m)
-- 🏫 Learning Flutter State Management, CSS, and Java🔥🔥
-- 🥅 To become a Flutter Developer 👩‍💻
+- 🎯 Currenty working on [Flutter Course][youtube]
+- 🏫 Learning Flutter State Management, React with TS
+- 🥅 To learn React 👩‍💻
 - 👯‍♂️ I am looking to collaborate with other developers
 - 📅 I create contents on [Youtube][youtube], [Instagram][instagram] and [Twitter][twitter]
 - ☕ I love coffee
 - 🎉 Fun fact: I love to draw and listen to music
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pythonhubpy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 style="margin-top:20px;">Github Trophies 🏆</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pythonhubpy&theme=onedark&margin-w=15&margin-h=15&title=Commit,Followers,Issues,Joined2020&row=1&no-frame=true)](https://github.com/pythonhubpy)
 
 <h1>Skills 🚀</h1>
 
@@ -46,21 +54,43 @@
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Website](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
 
+<h1 style="margin-top:20px">Connect with me 📩</h1>
 
-<h1 style="margin-top:30px;">⚡ Most Used Languages</h1>
+[![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")][youtube]
+[![Website](https://img.shields.io/badge/twitter-%23FFF.svg?&style=for-the-badge&logo=twitter&logoColor=white")][twitter]
+[![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](pythonhub.py@gmail.com)
 
-[![Top Langs](https://github-readme-stats.pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=6&hide_border=true)](https://github.com/pythonhubpy/)
+<h1 style="margin-top:20px;">Github Sreaks 🔥</h1>
 
-<h1>⚡ Github Stats</h1>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pythonhubpy&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=1800)](https://github.com/pythonhubpy/)
 
-<h1 style="margin-top:20px;">⚡ Weekly Stats</h1>
+<h1 style="margin-top:20px;">Github Stats 📊</h1>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Github Stats" src="https://github-readme-stats-pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=100" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
-[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&layout=compact)](https://github.com/pythonhubpy/)
+<details style="margin-top:10px;"> 
+  <summary>💻 GitHub Weekly Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=react&langs_count=3" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
+<br>
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pythonhub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pythonhubpy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 [youtube]: https://www.youtube.com/c/pythonhub
-[instagram]: https://www.instagram.com/pythonhub.py
+[instagram]: https://www.instagram.com/pythonhubdev/
 [linkedin]: https://www.linkedin.com/in/vetrichelvan
 [twitter]: https://twitter.com/pythonhubdev
