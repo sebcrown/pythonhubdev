@@ -1,10 +1,10 @@
-<h1>
+<h1 align="center">
   Welcome to Vetrichelvan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 
-<p style="margin-top:30px">
+<p align="center" style="margin-top:30px">
   <a href="https://twitter.com/pythonhubdev">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/pythonhubdev?color=1DA1F2&labelColor=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/pythonhubpy">
