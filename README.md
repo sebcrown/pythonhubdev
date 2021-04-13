@@ -74,7 +74,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Github Stats" src="https://github-readme-stats-pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=100" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <details style="margin-top:10px;"> 
@@ -82,8 +81,11 @@
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=react&langs_count=3" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+ </details>
+
+<br>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br>
 
