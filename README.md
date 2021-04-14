@@ -71,7 +71,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Github Stats" src="https://github-readme-stats-pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=100" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Github Stats" src="https://github-readme-stats-pythonhubpy.vercel.app/api?username=pythonhubpy&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=0"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </details>
