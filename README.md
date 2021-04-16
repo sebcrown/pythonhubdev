@@ -32,7 +32,7 @@
 [![Website](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)][youtube]
 ![Website](https://img.shields.io/badge/Django%20-%234ea94b.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![Website](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![Website](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Website](https://img.shields.io/badge/flask%20-%23181717.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Website](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Website](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Website](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,7 +50,7 @@
 ![Website](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Website](https://img.shields.io/badge/AWS%20Lambda-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Website](https://img.shields.io/badge/HEROKU-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
-![Website](https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
+![Website](https://img.shields.io/badge/PyCharm-%234ea94b.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Website](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
 
