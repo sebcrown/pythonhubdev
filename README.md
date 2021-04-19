@@ -14,7 +14,7 @@
 
 <h2>I'm a Student, Developer, and Teacher</h2>
 
-- 🎯 Currenty working on [Flutter Course][youtube]
+- 🎯 Currenty working on [Flutter Course][youtube], [FAB][https://fab.vercel.app/]
 - 🏫 Learning Flutter State Management, React with TS
 - 🥅 To learn React 👩‍💻
 - 👯‍♂️ I am looking to collaborate with other developers
