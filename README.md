@@ -12,11 +12,11 @@
 
 <h2>I'm a Student, Developer, and Teacher</h2>
 
-- 🎯 Currenty working on [Flutter Course][youtube], [FAB][vercel]
+- 🎯 Currently working on [Flutter Course][youtube], [FAB][vercel]
 - 🏫 Learning Flutter State Management, React with TS
 - 🥅 To learn React 👩‍💻
 - 👯‍♂️ I am looking to collaborate with other developers
-- 📅 I create contents on [Youtube][youtube], [Instagram][instagram] and [Twitter][twitter]
+- 📅 I create contents on [YouTube][youtube], [Instagram][instagram] and [Twitter][twitter]
 - ☕ I love coffee
 - 🎉 Fun fact: I love to draw and listen to music
 
@@ -60,7 +60,7 @@
 [![Website](https://img.shields.io/badge/twitter-%23FFF.svg?&style=for-the-badge&logo=twitter&logoColor=white")][twitter]
 [![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](pythonhub.py@gmail.com)
 
-<h1 style="margin-top:20px;">Github Sreaks 🔥</h1>
+<h1 style="margin-top:20px;">Github Streaks 🔥</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pythonhubpy&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
