@@ -3,14 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-
 <p align="center" style="margin-top:30px">
   <a href="https://twitter.com/pythonhubdev">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/pythonhubdev?color=1DA1F2&labelColor=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/pythonhubpy">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pythonhubpy?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
-
 
 <h2>I'm a Student, Developer, and Teacher</h2>
 
@@ -41,7 +39,6 @@
 ![Website](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Website](https://img.shields.io/badge/Apache%20Airflow%20-%23017CEE.svg?&style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 
-
 <h1>Tools ⚙</h1>
 
 ![Website](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
@@ -56,7 +53,8 @@
 
 <h1 style="margin-top:20px">Connect with me 📩</h1>
 
-[![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+<!-- [![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram] -->
+
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")][youtube]
 [![Website](https://img.shields.io/badge/twitter-%23FFF.svg?&style=for-the-badge&logo=twitter&logoColor=white")][twitter]
@@ -66,20 +64,19 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pythonhubpy&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-
 <h1 style="margin-top:20px;">Github Stats 📊</h1>
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Github Stats" src="https://github-readme-stats-pythonhubpy.vercel.app/api?username=pythonhubpy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8&hide=jupyter%20notebook"/></a>
   <br/>
 </details>
 
 <details style="margin-top:10px;"> 
   <summary>💻 GitHub Weekly Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=react&langs_count=3" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=react&langs_count=6"/></a>
   <br/>
  </details>
 
@@ -89,11 +86,12 @@
 
 <br>
 
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pythonhub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pythonhubpy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pythonhub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pythonhubpy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 
 [youtube]: https://www.youtube.com/c/pythonhub
-[instagram]: https://www.instagram.com/pythonhubdev/
+
+<!-- [instagram]: https://www.instagram.com/pythonhubdev/ -->
+
 [linkedin]: https://www.linkedin.com/in/vetrichelvan
 [twitter]: https://twitter.com/pythonhubdev
 [vercel]: https://fab.vercel.app/
