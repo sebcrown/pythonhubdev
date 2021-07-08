@@ -74,6 +74,12 @@
 
 <h1 style="margin-top:20px;">Github Activities ⚡</h1>
 <!--START_SECTION:activity-->
+
+
+
+
+
+
 <!--END_SECTION:activity-->
 
 <h1 style="margin-top:20px;">Github Stats 📊</h1>
