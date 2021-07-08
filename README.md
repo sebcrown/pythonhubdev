@@ -81,7 +81,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [WhatsApp Clone with Flutter - App Bar and Tab Navigation || WhatsApp Clone Part-2 || Flutter](https://www.youtube.com/watch?v=HNGsHknLsRY)
+- [WhatsApp Clone with Flutter - Dynamic Theme || WhatsApp Clone Part-1 || Flutter](https://www.youtube.com/watch?v=laHlFaJOHcQ)
+- [Linting in Flutter | Good Quality Code Base with Linting in Flutter || Code Quality #flutter #dart](https://www.youtube.com/watch?v=zqRsCbfxZ6U)
+- [Make Responsive UI in Flutter with Sizer | Flutter Responsive UI || Flutter 2.0](https://www.youtube.com/watch?v=FqBdCPwf24Q)
+- [Create Native Splash Screen in Flutter || Flutter 2.0](https://www.youtube.com/watch?v=DOEwKCwz9gY)
 <!-- YOUTUBE:END -->
 
 <h1 style="margin-top:20px;">Github Stats 📊</h1>
