@@ -13,10 +13,10 @@
 <h2>I'm a Student, Developer, and Teacher</h2>
 
 - 🎯 Currently working on [Flutter Course][youtube], [FAB][vercel]
-- 🏫 Learning Flutter State Management, React with TS
+- 🏫 Exploring more on Flutter, React with TS
 - 🥅 To learn React 👩‍💻
-- 👯‍♂️ I am looking to collaborate with other developers
-- 📅 I create contents on [YouTube][youtube], [Instagram][instagram] and [Twitter][twitter]
+- 👯‍♂️ Open Source Contributions
+- 📅 I create contents on [YouTube][youtube] and [Twitter][twitter]
 - ☕ I love coffee
 - 🎉 Fun fact: I love to draw and listen to music
 
@@ -26,30 +26,37 @@
 
 <h1>Skills 🚀</h1>
 
-![Website](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Website](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Website](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)][youtube]
-![Website](https://img.shields.io/badge/Django%20-%234ea94b.svg?&style=for-the-badge&logo=Django&logoColor=white)
-![Website](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![Website](https://img.shields.io/badge/flask%20-%23181717.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![Website](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![Website](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Website](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Website](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Website](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Website](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Website](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Website](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Website](https://img.shields.io/badge/FIREBASE-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![Website](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![Website](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Website](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Website](https://img.shields.io/badge/Apache%20Airflow%20-%23017CEE.svg?&style=for-the-badge&logo=Apache-Airflow&logoColor=white)
+![Website](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white)
 
 <h1>Tools ⚙</h1>
 
 ![Website](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
+![Website](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Website](https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Website](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Website](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Website](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Website](https://img.shields.io/badge/AWS%20Lambda-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Website](https://img.shields.io/badge/HEROKU-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Website](https://img.shields.io/badge/PyCharm-%234ea94b.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![Website](https://img.shields.io/badge/VS--CODE-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Website](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)
+![Website](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Website](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Website](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <h1 style="margin-top:20px">Connect with me 📩</h1>
 
@@ -59,6 +66,7 @@
 [![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")][youtube]
 [![Website](https://img.shields.io/badge/twitter-%23FFF.svg?&style=for-the-badge&logo=twitter&logoColor=white")][twitter]
 [![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](pythonhub.py@gmail.com)
+[![Website](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PmjDrBVhkb)
 
 <h1 style="margin-top:20px;">Github Streaks 🔥</h1>
 
