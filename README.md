@@ -70,7 +70,7 @@
 
 <h1 style="margin-top:20px;">Github Streaks 🔥</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pythonhubpy&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pythonhubpy&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### ⚒️ Latest GitHub Activity
 
