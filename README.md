@@ -72,15 +72,23 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pythonhubpy&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-<h1 style="margin-top:20px;">Github Activities ⚡</h1>
-<!--START_SECTION:activity-->
+<details>
+  <summary>⚒️ Recent GitHub Activity</summary>
+  <br/>
+  <!--START_SECTION:activity-->
 
+  <!--END_SECTION:activity-->
+  <br/>
+</details>
 
+<details>
+  <summary>📹 Recent YouTube Videos</summary>
+  <br/>
+  <!--YOUTUBE:START-->
 
-
-
-
-<!--END_SECTION:activity-->
+  <!--YOUTUBE:END-->
+  <br/>
+</details>
 
 <h1 style="margin-top:20px;">Github Stats 📊</h1>
 <details> 
