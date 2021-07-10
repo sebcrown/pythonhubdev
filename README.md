@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#594](https://github.com/rrousselGit/river_pod/issues/594) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
+1. 🗣 Commented on [#37](https://github.com/minikin/popover/issues/37) in [minikin/popover](https://github.com/minikin/popover)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
