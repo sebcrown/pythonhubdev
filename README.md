@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/minikin/popover/issues/37) in [minikin/popover](https://github.com/minikin/popover)
+1. 🗣 Commented on [#8](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/8) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
