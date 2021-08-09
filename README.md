@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#841](https://github.com/Solido/awesome-flutter/pull/841) in [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
+1. 🗣 Commented on [#37](https://github.com/minikin/popover/issues/37) in [minikin/popover](https://github.com/minikin/popover)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
