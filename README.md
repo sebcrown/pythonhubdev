@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#446](https://github.com/MongoEngine/flask-mongoengine/issues/446) in [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine)
+1. 🗣 Commented on [#1](https://github.com/pythonhubpy/firebase_authentication_flutter_DDD/issues/1) in [pythonhubpy/firebase_authentication_flutter_DDD](https://github.com/pythonhubpy/firebase_authentication_flutter_DDD)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
