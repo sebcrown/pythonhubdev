@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#446](https://github.com/MongoEngine/flask-mongoengine/issues/446) in [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine)
+1. ❗️ Closed issue [#446](https://github.com/MongoEngine/flask-mongoengine/issues/446) in [MongoEngine/flask-mongoengine](https://github.com/MongoEngine/flask-mongoengine)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
