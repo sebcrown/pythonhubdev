@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/pythonhubpy/firebase_authentication_flutter_DDD/issues/1) in [pythonhubpy/firebase_authentication_flutter_DDD](https://github.com/pythonhubpy/firebase_authentication_flutter_DDD)
+1. ❗️ Opened issue [#579](https://github.com/Flutterando/modular/issues/579) in [Flutterando/modular](https://github.com/Flutterando/modular)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
