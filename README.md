@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#579](https://github.com/Flutterando/modular/issues/579) in [Flutterando/modular](https://github.com/Flutterando/modular)
+1. 🗣 Commented on [#579](https://github.com/Flutterando/modular/issues/579) in [Flutterando/modular](https://github.com/Flutterando/modular)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
