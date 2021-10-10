@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#579](https://github.com/Flutterando/modular/issues/579) in [Flutterando/modular](https://github.com/Flutterando/modular)
+1. 🎉 Merged PR [#1](https://github.com/pythonhubpy/RandomQRPluginFlutter/pull/1) in [pythonhubpy/RandomQRPluginFlutter](https://github.com/pythonhubpy/RandomQRPluginFlutter)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
