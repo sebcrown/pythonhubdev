@@ -81,7 +81,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [WhatsApp Clone with Flutter - Dynamic Floating Action Button (FAB) | WhatsApp Clone Part-3 | Flutter](https://www.youtube.com/watch?v=9YCf9khwyGU)
+- [WhatsApp Clone with Flutter - Dynamic Floating Action Button &lpar;FAB&rpar; | WhatsApp Clone Part-3 | Flutter](https://www.youtube.com/watch?v=9YCf9khwyGU)
 - [WhatsApp Clone with Flutter - App Bar and Tab Navigation || WhatsApp Clone Part-2 || Flutter](https://www.youtube.com/watch?v=HNGsHknLsRY)
 - [WhatsApp Clone with Flutter - Dynamic Theme || WhatsApp Clone Part-1 || Flutter](https://www.youtube.com/watch?v=laHlFaJOHcQ)
 - [Linting in Flutter | Good Quality Code Base with Linting in Flutter || Code Quality #flutter #dart](https://www.youtube.com/watch?v=zqRsCbfxZ6U)
