@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/pythonhubpy/python-100daysofcode/pull/1) in [pythonhubpy/python-100daysofcode](https://github.com/pythonhubpy/python-100daysofcode)
+1. ❗️ Opened issue [#390](https://github.com/python-restx/flask-restx/issues/390) in [python-restx/flask-restx](https://github.com/python-restx/flask-restx)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
