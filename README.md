@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#390](https://github.com/python-restx/flask-restx/issues/390) in [python-restx/flask-restx](https://github.com/python-restx/flask-restx)
+1. 🗣 Commented on [#10](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/10) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
