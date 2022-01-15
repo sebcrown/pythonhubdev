@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/10) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. ❗️ Opened issue [#155](https://github.com/MongoEngine/django-mongoengine/issues/155) in [MongoEngine/django-mongoengine](https://github.com/MongoEngine/django-mongoengine)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
