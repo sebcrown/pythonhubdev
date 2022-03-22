@@ -75,7 +75,7 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#155](https://github.com/MongoEngine/django-mongoengine/issues/155) in [MongoEngine/django-mongoengine](https://github.com/MongoEngine/django-mongoengine)
+1. 🎉 Merged PR [#11](https://github.com/pythonhubpy/ProDCube-Backend/pull/11) in [pythonhubpy/ProDCube-Backend](https://github.com/pythonhubpy/ProDCube-Backend)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
