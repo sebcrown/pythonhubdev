@@ -7,7 +7,7 @@
   <a href="https://twitter.com/pythonhubdev">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/pythonhubdev?color=1DA1F2&labelColor=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/pythonhubdev">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pythonhubpy?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pythonhubdev?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 <h2>I'm a Software Engineer, </h2>
