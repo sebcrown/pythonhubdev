@@ -20,7 +20,7 @@
 
 <h1 style="margin-top:20px;">Github Trophies 🏆</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pythonhubpy&theme=onedark&margin-w=15&margin-h=15&title=Commit,Followers,Issues,Joined2020&row=1&no-frame=true)](https://github.com/pythonhubpy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pythonhubdev&theme=onedark&margin-w=15&margin-h=15&title=Commit,Followers,Issues,Joined2020&row=1&no-frame=true)](https://github.com/pythonhubdev)
 
 <h1>Skills 🚀</h1>
 
@@ -94,15 +94,15 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Github Stats" src="https://github-readme-stats-pythonhubpy.vercel.app/api?username=pythonhubpy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/top-langs/?username=pythonhubpy&layout=compact&theme=dark&hide_border=true&bg_color=151515&langs_count=8&hide=jupyter%20notebook"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Github Stats" src="https://github-readme-stats-pythonhubdev.vercel.app/api?username=pythonhubdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubdev.vercel.app/api/top-langs/?username=pythonhubdev&layout=compact&theme=dark&hide_border=true&bg_color=151515&langs_count=8&hide=jupyter%20notebook"/></a>
   <br/>
 </details>
 
 <details style="margin-top:10px;"> 
   <summary>💻 GitHub Weekly Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubpy.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=xcode&langs_count=6"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubdev.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=xcode&langs_count=6"/></a>
   <br/>
  </details>
 
