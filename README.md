@@ -94,7 +94,6 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-
 1. ❗️ Opened issue [#433](https://github.com/ryanoasis/vim-devicons/issues/433) in [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
 2. ❗️ Closed issue [#1986](https://github.com/codex-team/editor.js/issues/1986) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
 <!--END_SECTION:activity-->
