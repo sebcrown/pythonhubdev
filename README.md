@@ -120,4 +120,4 @@
 
 [linkedin]: https://www.linkedin.com/in/vetrichelvan
 [twitter]: https://twitter.com/pythonhubdev
-[vercel]: https://fab.vercel.app/
+
