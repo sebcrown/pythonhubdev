@@ -95,8 +95,8 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#433](https://github.com/ryanoasis/vim-devicons/issues/433) in [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
-2. ❗️ Closed issue [#1986](https://github.com/codex-team/editor.js/issues/1986) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
+1. 💪 Opened PR [#1156](https://github.com/MunGell/awesome-for-beginners/pull/1156) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+2. 💪 Opened PR [#1155](https://github.com/MunGell/awesome-for-beginners/pull/1155) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 <!--END_SECTION:activity-->
 
 
