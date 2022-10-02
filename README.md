@@ -95,8 +95,8 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55792](https://github.com/firstcontributions/first-contributions/pull/55792) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. 💪 Opened PR [#1156](https://github.com/MunGell/awesome-for-beginners/pull/1156) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+1. ❗️ Opened issue [#1](https://github.com/pythonhubdev/PyNotion/issues/1) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. 💪 Opened PR [#55792](https://github.com/firstcontributions/first-contributions/pull/55792) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 
