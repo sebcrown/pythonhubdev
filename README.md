@@ -13,7 +13,7 @@
 <h2>I'm a Software Engineer, </h2>
 
 - 🎯 Currently focusing on [Flutter Course][youtube], Python, Fast API and Flutter
-- 👯‍♂️ Open Source Contributions
+- 👯‍♂️ Open Source Contributions [FAAG][faag], [PyNotion][pynotion]
 - 📅 I share knowledge on [YouTube][youtube] and [Twitter][twitter]
 - ☕ I love Caffeine
 - 🎉 I love to play, chill and listen to music
@@ -73,51 +73,51 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pythonhubdev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<h1 style="margin-top:20px;">Github Stats 📊</h1>
+
+<div style="display:inline;">
+<h3>💻 GitHub Profile Stats</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Github Stats" src="https://github-readme-stats-pythonhubdev.vercel.app/api?username=pythonhubdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"/></a>
+
+<h3>💻 GitHub Weekly Stats</h3>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubdev.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=dark&langs_count=6"/></a>
+</div>
+
+<h3>🚀 Most used languages</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubdev.vercel.app/api/top-langs/?username=pythonhubdev&layout=compact&theme=dark&hide_border=true&bg_color=151515&langs_count=8&hide=jupyter%20notebook"/></a>
+
+<b>🚨 Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<h1 style="margin-top:20px;">Activities 🏋🏻</h1>
+
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#433](https://github.com/ryanoasis/vim-devicons/issues/433) in [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
 2. ❗️ Closed issue [#1986](https://github.com/codex-team/editor.js/issues/1986) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
 <!--END_SECTION:activity-->
 
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Hello World in Python | Python Tutorial | Beginners](https://www.youtube.com/watch?v=Y_bMdTC7Va8)
 - [Introduction to Python Programming | Python Tutorial | Beginners](https://www.youtube.com/watch?v=ydj5ostMqAU)
 - [Channel Update | Python Hub |](https://www.youtube.com/watch?v=4fvaSMhN0vA)
 - [WhatsApp Clone with Flutter - Dynamic Floating Action Button &lpar;FAB&rpar; | WhatsApp Clone Part-3 | Flutter](https://www.youtube.com/watch?v=9YCf9khwyGU)
 - [WhatsApp Clone with Flutter - App Bar and Tab Navigation || WhatsApp Clone Part-2 || Flutter](https://www.youtube.com/watch?v=HNGsHknLsRY)
-<!-- YOUTUBE:END -->
-
-<h1 style="margin-top:20px;">Github Stats 📊</h1>
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Github Stats" src="https://github-readme-stats-pythonhubdev.vercel.app/api?username=pythonhubdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubdev.vercel.app/api/top-langs/?username=pythonhubdev&layout=compact&theme=dark&hide_border=true&bg_color=151515&langs_count=8&hide=jupyter%20notebook"/></a>
-  <br/>
-</details>
-
-<details style="margin-top:10px;"> 
-  <summary>💻 GitHub Weekly Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubdev.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=xcode&langs_count=6"/></a>
-  <br/>
- </details>
-
-<br>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br>
+  <!-- YOUTUBE:END -->
+  <br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pythonhub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pythonhubdev&bg_color=151515&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 
+<!-- Links: START -->
 [youtube]: https://www.youtube.com/c/pythonhub
-
-<!-- [instagram]: https://www.instagram.com/pythonhubdev/ -->
-
 [linkedin]: https://www.linkedin.com/in/vetrichelvan
 [twitter]: https://twitter.com/pythonhubdev
-
+[faag]: httsp://www.github.com/pythonhubdev/FAAG
+[pynotion]: https://github.com/pythonhubdev/PyNotion
+<!-- Links: END -->
