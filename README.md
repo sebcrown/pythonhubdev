@@ -95,8 +95,8 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/pythonhubdev/PyNotion/pull/5) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. 🗣 Commented on [#23](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/23) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. ❗️ Opened issue [#6](https://github.com/pythonhubdev/PyNotion/issues/6) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. 💪 Opened PR [#5](https://github.com/pythonhubdev/PyNotion/pull/5) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--END_SECTION:activity-->
 
 
