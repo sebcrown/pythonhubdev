@@ -95,8 +95,8 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/pythonhubdev/PyNotion/issues/9) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. 💪 Opened PR [#8](https://github.com/pythonhubdev/PyNotion/pull/8) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. 💪 Opened PR [#11](https://github.com/pythonhubdev/PyNotion/pull/11) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. ❗️ Closed issue [#10](https://github.com/pythonhubdev/PyNotion/issues/10) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--END_SECTION:activity-->
 
 
