@@ -96,7 +96,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/pythonhubdev/PyNotion/issues/3) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. ❗️ Closed issue [#6](https://github.com/pythonhubdev/PyNotion/issues/6) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. 🗣 Commented on [#3](https://github.com/pythonhubdev/PyNotion/issues/3) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--END_SECTION:activity-->
 
 
