@@ -95,8 +95,8 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/pythonhubdev/PyNotion/pull/20) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. ❗️ Closed issue [#19](https://github.com/pythonhubdev/PyNotion/issues/19) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. 💪 Opened PR [#21](https://github.com/pythonhubdev/PyNotion/pull/21) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. 🎉 Merged PR [#20](https://github.com/pythonhubdev/PyNotion/pull/20) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--END_SECTION:activity-->
 
 
