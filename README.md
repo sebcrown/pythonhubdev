@@ -5,22 +5,20 @@
 
 <p align="center" style="margin-top:30px">
   <a href="https://twitter.com/pythonhubdev">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/pythonhubdev?color=1DA1F2&labelColor=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pythonhubdev?color=blue&label=follow&logo=twitter&style=for-the-badge"></a>
   <a href="https://github.com/pythonhubdev">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pythonhubdev?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Follow"/></a>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/pythonhubdev?logo=github&style=for-the-badge"></a>
 </p>
 
-<h2>I'm a Software Engineer, </h2>
+Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and Engineering. Expertise in developing full-stack mobile and web applications with Python, Flutter, and React. I love building applications, especially mobile applications using Flutter and Python. Contributed to some OSS projects and have some ideas to implement a few OSS projects (Looking forward to collaborating with other developers). I do teach tech stuff on my YouTube channel. I do love to play cricket and also try to sing some of my favorite songs.
 
-- 🎯 Currently focusing on [Flutter Course][youtube], Python, Fast API and Flutter
+- 🎯 Currently focusing on [Flutter Course][youtube], Fast API and OSS
 - 👯‍♂️ Open Source Contributions [FAAG][faag], [PyNotion][pynotion]
 - 📅 I share knowledge on [YouTube][youtube] and [Twitter][twitter]
 - ☕ I love Caffeine
 - 🎉 I love to play, chill and listen to music
 
-<h1 style="margin-top:20px;">Github Trophies 🏆</h1>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pythonhubdev&theme=onedark&margin-w=15&margin-h=15&title=Commit,Followers,Issues,Joined2020&row=1&no-frame=true)](https://github.com/pythonhubdev)
+<br>
 
 <h1>Skills 🚀</h1>
 
@@ -39,7 +37,7 @@
 ![Website](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Website](https://img.shields.io/badge/Apache%20Airflow%20-%23017CEE.svg?&style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 
-<h1>Tools ⚙</h1>
+<h1>Tools 🧰</h1>
 
 ![Website](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![Website](https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -59,7 +57,7 @@
 ![Website](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Website](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
 
-<h1 style="margin-top:20px">Connect with me 📩</h1>
+<h1 style="margin-top:20px">Socials 📨</h1>
 
 <!-- [![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram] -->
 
@@ -83,6 +81,7 @@
 <h3>💻 GitHub Weekly Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pythonhub's Top Languages" src="https://github-readme-stats-pythonhubdev.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=dark&langs_count=6"/></a>
+
 </div>
 
 <h3>🚀 Most used languages</h3>
@@ -95,28 +94,31 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#433](https://github.com/ryanoasis/vim-devicons/issues/433) in [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
 2. ❗️ Closed issue [#1986](https://github.com/codex-team/editor.js/issues/1986) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
 <!--END_SECTION:activity-->
 
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Hello World in Python | Python Tutorial | Beginners](https://www.youtube.com/watch?v=Y_bMdTC7Va8)
 - [Introduction to Python Programming | Python Tutorial | Beginners](https://www.youtube.com/watch?v=ydj5ostMqAU)
 - [Channel Update | Python Hub |](https://www.youtube.com/watch?v=4fvaSMhN0vA)
 - [WhatsApp Clone with Flutter - Dynamic Floating Action Button &lpar;FAB&rpar; | WhatsApp Clone Part-3 | Flutter](https://www.youtube.com/watch?v=9YCf9khwyGU)
 - [WhatsApp Clone with Flutter - App Bar and Tab Navigation || WhatsApp Clone Part-2 || Flutter](https://www.youtube.com/watch?v=HNGsHknLsRY)
-<!-- YOUTUBE:END -->
-  <br>
+  <!-- YOUTUBE:END -->
+    <br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pythonhub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pythonhubdev&bg_color=151515&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 
 <!-- Links: START -->
+
 [youtube]: https://www.youtube.com/c/pythonhub
 [linkedin]: https://www.linkedin.com/in/vetrichelvan
 [twitter]: https://twitter.com/pythonhubdev
 [faag]: httsp://www.github.com/pythonhubdev/FAAG
 [pynotion]: https://github.com/pythonhubdev/PyNotion
+
 <!-- Links: END -->
