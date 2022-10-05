@@ -94,8 +94,8 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/pythonhubdev/PyNotion/issues/3) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. 🗣 Commented on [#3](https://github.com/pythonhubdev/PyNotion/issues/3) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. ❗️ Opened issue [#1467](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1467) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#5632](https://github.com/EddieHubCommunity/support/issues/5632) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
