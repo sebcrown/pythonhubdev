@@ -94,22 +94,20 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-
-1. ❗️ Opened issue [#433](https://github.com/ryanoasis/vim-devicons/issues/433) in [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)
-2. ❗️ Closed issue [#1986](https://github.com/codex-team/editor.js/issues/1986) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
+1. 🗣 Commented on [#3](https://github.com/pythonhubdev/PyNotion/issues/3) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. 🗣 Commented on [#3](https://github.com/pythonhubdev/PyNotion/issues/3) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Hello World in Python | Python Tutorial | Beginners](https://www.youtube.com/watch?v=Y_bMdTC7Va8)
 - [Introduction to Python Programming | Python Tutorial | Beginners](https://www.youtube.com/watch?v=ydj5ostMqAU)
 - [Channel Update | Python Hub |](https://www.youtube.com/watch?v=4fvaSMhN0vA)
 - [WhatsApp Clone with Flutter - Dynamic Floating Action Button &lpar;FAB&rpar; | WhatsApp Clone Part-3 | Flutter](https://www.youtube.com/watch?v=9YCf9khwyGU)
 - [WhatsApp Clone with Flutter - App Bar and Tab Navigation || WhatsApp Clone Part-2 || Flutter](https://www.youtube.com/watch?v=HNGsHknLsRY)
-  <!-- YOUTUBE:END -->
-    <br>
+<!-- YOUTUBE:END -->
+  <br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pythonhub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pythonhubdev&bg_color=151515&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 
