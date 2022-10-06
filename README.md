@@ -94,8 +94,8 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1466](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1466) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#1468](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1468) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#1468](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1468) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#1466](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1466) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
