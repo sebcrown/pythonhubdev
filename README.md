@@ -94,8 +94,8 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1156](https://github.com/MunGell/awesome-for-beginners/issues/1156) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-2. 🗣 Commented on [#3](https://github.com/pythonhubdev/PyNotion/issues/3) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. 🗣 Commented on [#3](https://github.com/pythonhubdev/PyNotion/issues/3) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. 🗣 Commented on [#1156](https://github.com/MunGell/awesome-for-beginners/issues/1156) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
