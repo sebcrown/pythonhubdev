@@ -94,8 +94,8 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/issues/1) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-2. 🗣 Commented on [#3](https://github.com/pythonhubdev/PyNotion/issues/3) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. 🗣 Commented on [#22](https://github.com/pythonhubdev/PyNotion/issues/22) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. ❗️ Closed issue [#1](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/issues/1) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
