@@ -94,11 +94,11 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-3. ❗️ Opened issue [#86](https://github.com/jamesgeorge007/github-activity-readme/issues/86) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-5. ✔️ Closed issue [#24](https://github.com/pythonhubdev/PyNotion/issues/24) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+2. ⬆️ Pushed 2 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+4. ❗️ Opened issue [#86](https://github.com/jamesgeorge007/github-activity-readme/issues/86) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
