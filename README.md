@@ -94,10 +94,10 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-2. ⬆️ Pushed 2 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-4. ❗️ Opened issue [#86](https://github.com/jamesgeorge007/github-activity-readme/issues/86) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+2. ❗️ Opened issue [#2](https://github.com/pythonhubdev/faag_cli/issues/2) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+3. 💬 Commented on [#1](https://github.com/pythonhubdev/faag_cli/issues/1#issuecomment-1272272188) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+4. ❗️ Opened issue [#1](https://github.com/pythonhubdev/faag_cli/issues/1) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
 5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
 <!--RECENT_ACTIVITY:end-->
 
