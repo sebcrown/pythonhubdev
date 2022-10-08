@@ -94,8 +94,8 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/pythonhubdev/PyNotion/pull/23) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. 🗣 Commented on [#23](https://github.com/pythonhubdev/PyNotion/issues/23) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. ❗️ Closed issue [#24](https://github.com/pythonhubdev/PyNotion/issues/24) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. 🎉 Merged PR [#25](https://github.com/pythonhubdev/PyNotion/pull/25) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--END_SECTION:activity-->
 
 ### 📺 Latest YouTube Videos
