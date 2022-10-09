@@ -94,11 +94,11 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
-2. 💬 Commented on [#26](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/26#issuecomment-1272585653) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-4. ✔️ Closed issue [#1](https://github.com/pythonhubdev/faag_cli/issues/1) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-5. 🎉 Merged PR [#5](https://github.com/pythonhubdev/faag_cli/pull/5) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+1. ❗️ Opened issue [#7](https://github.com/pythonhubdev/faag_cli/issues/7) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+2. ❗️ Opened issue [#6](https://github.com/pythonhubdev/faag_cli/issues/6) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+4. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
+5. 💬 Commented on [#26](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/26#issuecomment-1272585653) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
