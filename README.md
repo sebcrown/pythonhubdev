@@ -94,11 +94,11 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1487](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1487#issuecomment-1273596331) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Opened issue [#1487](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1487) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-4. ❗️ Opened issue [#7](https://github.com/pythonhubdev/faag_cli/issues/7) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-5. ❗️ Opened issue [#6](https://github.com/pythonhubdev/faag_cli/issues/6) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+2. 🎉 Merged PR [#8](https://github.com/pythonhubdev/faag_cli/pull/8) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+3. 👍 Approved [#8](https://github.com/pythonhubdev/faag_cli/pull/8#pullrequestreview-1136375417) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+4. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+5. 🎉 Merged PR [#26](https://github.com/pythonhubdev/PyNotion/pull/26) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
