@@ -94,11 +94,11 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-2. ❗️ Opened issue [#7](https://github.com/pythonhubdev/faag_cli/issues/7) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-3. ❗️ Opened issue [#6](https://github.com/pythonhubdev/faag_cli/issues/6) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-5. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
+1. ❗️ Opened issue [#1487](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1487) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+3. ❗️ Opened issue [#7](https://github.com/pythonhubdev/faag_cli/issues/7) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+4. ❗️ Opened issue [#6](https://github.com/pythonhubdev/faag_cli/issues/6) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
