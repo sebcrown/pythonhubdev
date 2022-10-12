@@ -94,11 +94,11 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-2. 🎉 Merged PR [#10](https://github.com/pythonhubdev/faag_cli/pull/10) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-3. 💪 Opened PR [#10](https://github.com/pythonhubdev/faag_cli/pull/10) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-4. ⬆️ Pushed 3 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-5. ✔️ Closed issue [#7](https://github.com/pythonhubdev/faag_cli/issues/7) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+1. ✔️ Closed issue [#6](https://github.com/pythonhubdev/faag_cli/issues/6) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+2. ⬆️ Pushed 3 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+3. 🎉 Merged PR [#11](https://github.com/pythonhubdev/faag_cli/pull/11) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+4. ❗️ Opened issue [#12](https://github.com/pythonhubdev/faag_cli/issues/12) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+5. 💪 Opened PR [#11](https://github.com/pythonhubdev/faag_cli/pull/11) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
