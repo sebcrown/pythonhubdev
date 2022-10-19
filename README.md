@@ -94,11 +94,11 @@ Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and E
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. 🎉 Merged PR [#27](https://github.com/pythonhubdev/PyNotion/pull/27) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-4. ⬆️ Pushed 6 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-5. 🎉 Merged PR [#15](https://github.com/pythonhubdev/faag_cli/pull/15) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+1. 🔱 Forked [pythonhubdev/r13n](https://github.com/pythonhubdev/r13n) from [VeryGoodOpenSource/r13n](https://github.com/VeryGoodOpenSource/r13n)
+2. ⭐ Starred [VeryGoodOpenSource/r13n](https://github.com/VeryGoodOpenSource/r13n)
+3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+4. 🎉 Merged PR [#27](https://github.com/pythonhubdev/PyNotion/pull/27) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
