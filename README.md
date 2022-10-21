@@ -10,7 +10,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/pythonhubdev?logo=github&style=for-the-badge"></a>
 </p>
 
-Hello guys👋🏻, Full-stack Developer with a degree in Computer Science and Engineering. Expertise in developing full-stack mobile and web applications with Python, Flutter, and React. I love building applications, especially mobile applications using Flutter and Python. Contributed to some OSS projects and have some ideas to implement a few OSS projects (Looking forward to collaborating with other developers). I do teach tech stuff on my YouTube channel. I do love to play cricket and also try to sing some of my favorite songs.
+Hello guys👋🏻, I'm a Full-stack Developer with a degree in Computer Science and Engineering. Expertise in developing full-stack mobile and web applications with Python, Flutter, and React. I love building applications, especially mobile applications using Flutter and Python. Contributed to some OSS projects and have some ideas to implement a few OSS projects (Looking forward to collaborating with other developers). I do teach tech stuff on my YouTube channel. I do love to play cricket and also try to sing some of my favorite songs.
 
 - 🎯 Currently focusing on [Flutter Course][youtube], Fast API and OSS
 - 👯‍♂️ Open Source Contributions [FAAG][faag], [PyNotion][pynotion]
