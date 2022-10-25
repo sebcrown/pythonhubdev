@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a Full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-2. 🔱 Forked [pythonhubdev/r13n](https://github.com/pythonhubdev/r13n) from [VeryGoodOpenSource/r13n](https://github.com/VeryGoodOpenSource/r13n)
-3. ⭐ Starred [VeryGoodOpenSource/r13n](https://github.com/VeryGoodOpenSource/r13n)
-4. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-5. 🎉 Merged PR [#27](https://github.com/pythonhubdev/PyNotion/pull/27) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. 🎉 Merged PR [#28](https://github.com/pythonhubdev/PyNotion/pull/28) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+4. 🎉 Merged PR [#5](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/pull/5) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
