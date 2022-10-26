@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a Full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. 🎉 Merged PR [#28](https://github.com/pythonhubdev/PyNotion/pull/28) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-4. 🎉 Merged PR [#5](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/pull/5) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+1. ⭐ Starred [idom-team/idom](https://github.com/idom-team/idom)
+2. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+3. 🎉 Merged PR [#28](https://github.com/pythonhubdev/PyNotion/pull/28) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+4. ⬆️ Pushed 2 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+5. 🎉 Merged PR [#5](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/pull/5) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
