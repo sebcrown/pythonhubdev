@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a Full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
-2. ⭐ Starred [idom-team/idom](https://github.com/idom-team/idom)
-3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-4. 🎉 Merged PR [#28](https://github.com/pythonhubdev/PyNotion/pull/28) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+4. 📔 Created new repository [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+5. ⭐ Starred [idom-team/idom](https://github.com/idom-team/idom)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
