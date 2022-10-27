@@ -97,8 +97,8 @@ Hello guys👋🏻, I'm a Full-stack Developer with a degree in Computer Science
 1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
 3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
-4. 📔 Created new repository [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
-5. ⭐ Starred [idom-team/idom](https://github.com/idom-team/idom)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+5. 📔 Created new repository [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
