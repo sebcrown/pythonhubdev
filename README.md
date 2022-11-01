@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+2. 🎉 Merged PR [#16](https://github.com/pythonhubdev/faag_cli/pull/16) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+3. 👍 Approved [#16](https://github.com/pythonhubdev/faag_cli/pull/16#pullrequestreview-1163912258) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+4. 🎉 Merged PR [#29](https://github.com/pythonhubdev/PyNotion/pull/29) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
