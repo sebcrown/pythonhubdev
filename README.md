@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-2. 🎉 Merged PR [#16](https://github.com/pythonhubdev/faag_cli/pull/16) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-3. 👍 Approved [#16](https://github.com/pythonhubdev/faag_cli/pull/16#pullrequestreview-1163912258) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-4. 🎉 Merged PR [#29](https://github.com/pythonhubdev/PyNotion/pull/29) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. 📔 Created new repository [pythonhubdev/fastapi](https://github.com/pythonhubdev/fastapi)
+2. 📔 Created new repository [pythonhubdev/fastapi](https://github.com/pythonhubdev/fastapi)
+3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+4. 🎉 Merged PR [#16](https://github.com/pythonhubdev/faag_cli/pull/16) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+5. 👍 Approved [#16](https://github.com/pythonhubdev/faag_cli/pull/16#pullrequestreview-1163912258) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
