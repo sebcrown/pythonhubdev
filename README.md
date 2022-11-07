@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [pythonhubdev/fastapi](https://github.com/pythonhubdev/fastapi)
-2. 📔 Created new repository [pythonhubdev/fastapi](https://github.com/pythonhubdev/fastapi)
-3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-4. 🎉 Merged PR [#16](https://github.com/pythonhubdev/faag_cli/pull/16) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-5. 👍 Approved [#16](https://github.com/pythonhubdev/faag_cli/pull/16#pullrequestreview-1163912258) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+4. 📔 Created new repository [pythonhubdev/fastapi](https://github.com/pythonhubdev/fastapi)
+5. 📔 Created new repository [pythonhubdev/fastapi](https://github.com/pythonhubdev/fastapi)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
