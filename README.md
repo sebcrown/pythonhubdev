@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 45 commit(s) to [pythonhubdev/flutter-riverpod-snippets](https://github.com/pythonhubdev/flutter-riverpod-snippets)
-2. ⬆️ Pushed 2 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-3. 🎉 Merged PR [#17](https://github.com/pythonhubdev/faag_cli/pull/17) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-4. 👍 Approved [#17](https://github.com/pythonhubdev/faag_cli/pull/17#pullrequestreview-1172438896) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
-5. 🎉 Merged PR [#9](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/pull/9) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+2. ⬆️ Pushed 45 commit(s) to [pythonhubdev/flutter-riverpod-snippets](https://github.com/pythonhubdev/flutter-riverpod-snippets)
+3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+4. 🎉 Merged PR [#17](https://github.com/pythonhubdev/faag_cli/pull/17) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
+5. 👍 Approved [#17](https://github.com/pythonhubdev/faag_cli/pull/17#pullrequestreview-1172438896) in [pythonhubdev/faag_cli](https://github.com/pythonhubdev/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
