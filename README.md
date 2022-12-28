@@ -95,10 +95,10 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 3 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. ⬆️ Pushed 2 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-3. 🎉 Merged PR [#32](https://github.com/pythonhubdev/PyNotion/pull/32) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+2. 🎉 Merged PR [#34](https://github.com/pythonhubdev/PyNotion/pull/34) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+3. ⬆️ Pushed 16 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+4. ⬆️ Pushed 3 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+5. 🎉 Merged PR [#36](https://github.com/pythonhubdev/PyNotion/pull/36) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
