@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#329](https://github.com/CollActionteam/collaction_app/issues/329#issuecomment-1379390803) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
-2. ⬆️ Pushed 3 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-3. 🎉 Merged PR [#34](https://github.com/pythonhubdev/PyNotion/pull/34) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-4. ⬆️ Pushed 16 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-5. ⬆️ Pushed 3 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. ⭐ Starred [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💬 Commented on [#329](https://github.com/CollActionteam/collaction_app/issues/329#issuecomment-1379390803) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
+3. ⬆️ Pushed 3 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+4. 🎉 Merged PR [#34](https://github.com/pythonhubdev/PyNotion/pull/34) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+5. ⬆️ Pushed 16 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
