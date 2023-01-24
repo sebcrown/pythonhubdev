@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [pythonhubdev/r13n](https://github.com/pythonhubdev/r13n)
-2. ⭐ Starred [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 💬 Commented on [#329](https://github.com/CollActionteam/collaction_app/issues/329#issuecomment-1379390803) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
-4. ⬆️ Pushed 3 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-5. 🎉 Merged PR [#34](https://github.com/pythonhubdev/PyNotion/pull/34) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. 💬 Commented on [#45](https://github.com/pythonhubdev/PyNotion/issues/45#issuecomment-1401514742) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+2. ✔️ Closed issue [#45](https://github.com/pythonhubdev/PyNotion/issues/45) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+3. 💬 Commented on [#45](https://github.com/pythonhubdev/PyNotion/issues/45#issuecomment-1401512898) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+4. ⬆️ Pushed 8 commit(s) to [pythonhubdev/r13n](https://github.com/pythonhubdev/r13n)
+5. ⭐ Starred [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
