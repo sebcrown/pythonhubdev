@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#45](https://github.com/pythonhubdev/PyNotion/issues/45#issuecomment-1401514742) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. ✔️ Closed issue [#45](https://github.com/pythonhubdev/PyNotion/issues/45) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-3. 💬 Commented on [#45](https://github.com/pythonhubdev/PyNotion/issues/45#issuecomment-1401512898) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-4. ⬆️ Pushed 8 commit(s) to [pythonhubdev/r13n](https://github.com/pythonhubdev/r13n)
-5. ⭐ Starred [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 📔 Created new repository [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
+2. 💬 Commented on [#45](https://github.com/pythonhubdev/PyNotion/issues/45#issuecomment-1401514742) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+3. ✔️ Closed issue [#45](https://github.com/pythonhubdev/PyNotion/issues/45) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+4. 💬 Commented on [#45](https://github.com/pythonhubdev/PyNotion/issues/45#issuecomment-1401512898) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+5. ⬆️ Pushed 8 commit(s) to [pythonhubdev/r13n](https://github.com/pythonhubdev/r13n)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
