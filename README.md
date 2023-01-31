@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
-2. 🎉 Merged PR [#5](https://github.com/pythonhubdev/split_bill_api/pull/5) in [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
-3. 💪 Opened PR [#5](https://github.com/pythonhubdev/split_bill_api/pull/5) in [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
-4. ⬆️ Pushed 2 commit(s) to [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
-5. 🎉 Merged PR [#4](https://github.com/pythonhubdev/split_bill_api/pull/4) in [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
+1. ⬆️ Pushed 4 commit(s) to [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
+2. 🎉 Merged PR [#6](https://github.com/pythonhubdev/split_bill_api/pull/6) in [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
+3. 💪 Opened PR [#6](https://github.com/pythonhubdev/split_bill_api/pull/6) in [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
