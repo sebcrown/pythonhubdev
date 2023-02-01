@@ -94,11 +94,11 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
 2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
 3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
 4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
-5. 📔 Created new repository [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
+5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
