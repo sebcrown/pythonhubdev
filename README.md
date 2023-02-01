@@ -95,10 +95,10 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
-2. 📔 Created new repository [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
-3. ⬆️ Pushed 4 commit(s) to [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
-4. 🎉 Merged PR [#6](https://github.com/pythonhubdev/split_bill_api/pull/6) in [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
-5. 💪 Opened PR [#6](https://github.com/pythonhubdev/split_bill_api/pull/6) in [pythonhubdev/split_bill_api](https://github.com/pythonhubdev/split_bill_api)
+2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
+3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
+4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
+5. 📔 Created new repository [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
