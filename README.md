@@ -56,7 +56,7 @@ Join me in my journey and let's build something amazing together!
 <!-- Stack: End -->
 
 <!-- Stats: Start -->
-## 📊 Github Stats
+## Github Stats 📊
 
 | Github Streaks🔥| GitHub Stats 📊 | Used Languages 🚀|
 |-----------------|-----------------|------------------|
