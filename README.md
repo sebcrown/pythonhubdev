@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 115 commit(s) to [pythonhubdev/github-readme-stats](https://github.com/pythonhubdev/github-readme-stats)
-2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-3. ⬆️ Pushed 4 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-4. 🎉 Merged PR [#49](https://github.com/DevzoneCommunity/PyNotion/pull/49) in [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-5. ✔️ Closed issue [#45](https://github.com/DevzoneCommunity/PyNotion/issues/45) in [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+1. ⬆️ Pushed 4 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+2. 🎉 Merged PR [#1](https://github.com/pythonhubdev/Python-Starter-Codes/pull/1) in [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+3. 💪 Opened PR [#1](https://github.com/pythonhubdev/Python-Starter-Codes/pull/1) in [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
