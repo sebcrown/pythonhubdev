@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-2. ⬆️ Pushed 2 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-3. 🔱 Forked [pythonhubdev/fabdul88](https://github.com/pythonhubdev/fabdul88) from [fabdul88/fabdul88](https://github.com/fabdul88/fabdul88)
-4. 🔱 Forked [pythonhubdev/imsushant12](https://github.com/pythonhubdev/imsushant12) from [imsushant12/imsushant12](https://github.com/imsushant12/imsushant12)
-5. 🔱 Forked [pythonhubdev/bylickilabs](https://github.com/pythonhubdev/bylickilabs) from [bylickilabs/bylickilabs](https://github.com/bylickilabs/bylickilabs)
+1. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/lets_solve_problems](https://github.com/DevzoneCommunity/lets_solve_problems)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+4. ⬆️ Pushed 2 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+5. 🔱 Forked [pythonhubdev/fabdul88](https://github.com/pythonhubdev/fabdul88) from [fabdul88/fabdul88](https://github.com/fabdul88/fabdul88)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
