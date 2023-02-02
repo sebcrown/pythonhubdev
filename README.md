@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-2. ⬆️ Pushed 4 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-3. 🎉 Merged PR [#49](https://github.com/DevzoneCommunity/PyNotion/pull/49) in [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-4. ✔️ Closed issue [#45](https://github.com/DevzoneCommunity/PyNotion/issues/45) in [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+1. ⬆️ Pushed 115 commit(s) to [pythonhubdev/github-readme-stats](https://github.com/pythonhubdev/github-readme-stats)
+2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+3. ⬆️ Pushed 4 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+4. 🎉 Merged PR [#49](https://github.com/DevzoneCommunity/PyNotion/pull/49) in [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+5. ✔️ Closed issue [#45](https://github.com/DevzoneCommunity/PyNotion/issues/45) in [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
