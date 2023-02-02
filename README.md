@@ -80,13 +80,12 @@ Join me in my journey and let's build something amazing together!
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Hello World in Python | Python Tutorial | Beginners](https://www.youtube.com/watch?v=Y_bMdTC7Va8)
 - [Introduction to Python Programming | Python Tutorial | Beginners](https://www.youtube.com/watch?v=ydj5ostMqAU)
 - [Channel Update | Python Hub |](https://www.youtube.com/watch?v=4fvaSMhN0vA)
 - [WhatsApp Clone with Flutter - Dynamic Floating Action Button &lpar;FAB&rpar; | WhatsApp Clone Part-3 | Flutter](https://www.youtube.com/watch?v=9YCf9khwyGU)
 - [WhatsApp Clone with Flutter - App Bar and Tab Navigation || WhatsApp Clone Part-2 || Flutter](https://www.youtube.com/watch?v=HNGsHknLsRY)
-  <!-- YOUTUBE:END -->
+<!-- YOUTUBE:END -->
 
 <br>
 
