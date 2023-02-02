@@ -70,12 +70,8 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-
-1. ⬆️ Pushed 3 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-2. 🎉 Merged PR [#34](https://github.com/pythonhubdev/PyNotion/pull/34) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-3. ⬆️ Pushed 16 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-4. ⬆️ Pushed 3 commit(s) to [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
-5. 🎉 Merged PR [#36](https://github.com/pythonhubdev/PyNotion/pull/36) in [pythonhubdev/PyNotion](https://github.com/pythonhubdev/PyNotion)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
+2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
