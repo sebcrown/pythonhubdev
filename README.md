@@ -94,10 +94,10 @@ Hello guys👋🏻, I'm a full-stack Developer with a degree in Computer Science
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [pythonhubdev/imsushant12](https://github.com/pythonhubdev/imsushant12) from [imsushant12/imsushant12](https://github.com/imsushant12/imsushant12)
-2. 🔱 Forked [pythonhubdev/bylickilabs](https://github.com/pythonhubdev/bylickilabs) from [bylickilabs/bylickilabs](https://github.com/bylickilabs/bylickilabs)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
-4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
+1. 🔱 Forked [pythonhubdev/fabdul88](https://github.com/pythonhubdev/fabdul88) from [fabdul88/fabdul88](https://github.com/fabdul88/fabdul88)
+2. 🔱 Forked [pythonhubdev/imsushant12](https://github.com/pythonhubdev/imsushant12) from [imsushant12/imsushant12](https://github.com/imsushant12/imsushant12)
+3. 🔱 Forked [pythonhubdev/bylickilabs](https://github.com/pythonhubdev/bylickilabs) from [bylickilabs/bylickilabs](https://github.com/bylickilabs/bylickilabs)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/lets_solve_problems](https://github.com/pythonhubdev/lets_solve_problems)
 5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/.github](https://github.com/DevzoneCommunity/.github)
 <!--RECENT_ACTIVITY:end-->
 
