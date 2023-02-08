@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
-2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
-3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
-4. ⬆️ Pushed 3 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
-5. 🎉 Merged PR [#1](https://github.com/DevzoneCommunity/messaging_and_calls_with_python/pull/1) in [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
+1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/Mailing-With-Python](https://github.com/pythonhubdev/Mailing-With-Python)
+2. 🎉 Merged PR [#1](https://github.com/pythonhubdev/Mailing-With-Python/pull/1) in [pythonhubdev/Mailing-With-Python](https://github.com/pythonhubdev/Mailing-With-Python)
+3. 💪 Opened PR [#1](https://github.com/pythonhubdev/Mailing-With-Python/pull/1) in [pythonhubdev/Mailing-With-Python](https://github.com/pythonhubdev/Mailing-With-Python)
+4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
+5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
