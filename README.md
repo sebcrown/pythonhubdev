@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/Messaging-and-Calls-With-Python](https://github.com/pythonhubdev/Messaging-and-Calls-With-Python)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/Messaging-and-Calls-With-Python](https://github.com/pythonhubdev/Messaging-and-Calls-With-Python)
-4. ⬆️ Pushed 2 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
-5. 🎉 Merged PR [#2](https://github.com/pythonhubdev/Python-Starter-Codes/pull/2) in [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
+2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
+3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
+4. ⬆️ Pushed 3 commit(s) to [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
+5. 🎉 Merged PR [#1](https://github.com/DevzoneCommunity/messaging_and_calls_with_python/pull/1) in [DevzoneCommunity/messaging_and_calls_with_python](https://github.com/DevzoneCommunity/messaging_and_calls_with_python)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
