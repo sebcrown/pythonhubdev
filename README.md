@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 190 commit(s) to [pythonhubdev/awesome-github-profiles](https://github.com/pythonhubdev/awesome-github-profiles)
-2. ⬆️ Pushed 4 commit(s) to [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
-3. 🎉 Merged PR [#1](https://github.com/pythonhubdev/Face-Characters-Detection/pull/1) in [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
-4. 💪 Opened PR [#1](https://github.com/pythonhubdev/Face-Characters-Detection/pull/1) in [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
+1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
+2. ⬆️ Pushed 190 commit(s) to [pythonhubdev/awesome-github-profiles](https://github.com/pythonhubdev/awesome-github-profiles)
+3. ⬆️ Pushed 4 commit(s) to [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
+4. 🎉 Merged PR [#1](https://github.com/pythonhubdev/Face-Characters-Detection/pull/1) in [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
+5. 💪 Opened PR [#1](https://github.com/pythonhubdev/Face-Characters-Detection/pull/1) in [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
