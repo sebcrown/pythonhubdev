@@ -71,10 +71,10 @@ Join me in my journey and let's build something amazing together!
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
-2. ⬆️ Pushed 2 commit(s) to [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
-3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/Mailing-With-Python](https://github.com/pythonhubdev/Mailing-With-Python)
-4. 🎉 Merged PR [#1](https://github.com/pythonhubdev/Mailing-With-Python/pull/1) in [pythonhubdev/Mailing-With-Python](https://github.com/pythonhubdev/Mailing-With-Python)
-5. 💪 Opened PR [#1](https://github.com/pythonhubdev/Mailing-With-Python/pull/1) in [pythonhubdev/Mailing-With-Python](https://github.com/pythonhubdev/Mailing-With-Python)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
+3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
+4. ⬆️ Pushed 2 commit(s) to [pythonhubdev/Mailing-With-Python](https://github.com/pythonhubdev/Mailing-With-Python)
+5. 🎉 Merged PR [#1](https://github.com/pythonhubdev/Mailing-With-Python/pull/1) in [pythonhubdev/Mailing-With-Python](https://github.com/pythonhubdev/Mailing-With-Python)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
