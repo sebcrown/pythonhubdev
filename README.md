@@ -71,10 +71,10 @@ Join me in my journey and let's build something amazing together!
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [pythonhubdev/flutter_course](https://github.com/pythonhubdev/flutter_course)
-2. ❌ Closed PR [#1156](https://github.com/MunGell/awesome-for-beginners/pull/1156) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
-4. ⬆️ Pushed 190 commit(s) to [pythonhubdev/awesome-github-profiles](https://github.com/pythonhubdev/awesome-github-profiles)
-5. ⬆️ Pushed 4 commit(s) to [pythonhubdev/Face-Characters-Detection](https://github.com/pythonhubdev/Face-Characters-Detection)
+2. 📔 Created new repository [pythonhubdev/flutter_course](https://github.com/pythonhubdev/flutter_course)
+3. ❌ Closed PR [#1156](https://github.com/MunGell/awesome-for-beginners/pull/1156) in [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
+5. ⬆️ Pushed 190 commit(s) to [pythonhubdev/awesome-github-profiles](https://github.com/pythonhubdev/awesome-github-profiles)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
