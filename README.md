@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
-2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
-3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
-4. 📔 Created new repository [pythonhubdev/flutter_course](https://github.com/pythonhubdev/flutter_course)
-5. 📔 Created new repository [pythonhubdev/flutter_course](https://github.com/pythonhubdev/flutter_course)
+1. ❌ Closed PR [#26](https://github.com/DevzoneCommunity/faag_cli/pull/26) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+2. ❌ Closed PR [#28](https://github.com/DevzoneCommunity/faag_cli/pull/28) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+3. ❌ Closed PR [#29](https://github.com/DevzoneCommunity/faag_cli/pull/29) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
+5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
