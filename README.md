@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
 2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
 3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
 4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
-5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
