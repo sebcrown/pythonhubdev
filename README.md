@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
-4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
-5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/python_starter_code](https://github.com/DevzoneCommunity/python_starter_code)
+1. ⬆️ Pushed 5 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
+2. 🎉 Merged PR [#2](https://github.com/DevzoneCommunity/face_characters_detection/pull/2) in [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
+3. 💪 Opened PR [#2](https://github.com/DevzoneCommunity/face_characters_detection/pull/2) in [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
+4. ⬆️ Pushed 3 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
+5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
