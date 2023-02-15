@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#31](https://github.com/DevzoneCommunity/faag_cli/pull/31) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-2. ❌ Closed PR [#7](https://github.com/DevzoneCommunity/face_characters_detection/pull/7) in [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
-3. ❌ Closed PR [#8](https://github.com/DevzoneCommunity/face_characters_detection/pull/8) in [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
-4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
-5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
+1. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+2. 🎉 Merged PR [#31](https://github.com/DevzoneCommunity/faag_cli/pull/31) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+3. 💪 Opened PR [#31](https://github.com/DevzoneCommunity/faag_cli/pull/31) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+4. ❌ Closed PR [#7](https://github.com/DevzoneCommunity/face_characters_detection/pull/7) in [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
+5. ❌ Closed PR [#8](https://github.com/DevzoneCommunity/face_characters_detection/pull/8) in [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
