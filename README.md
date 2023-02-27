@@ -72,9 +72,9 @@ Join me in my journey and let's build something amazing together!
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
-3. 📔 Created new repository [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
-4. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-5. 🎉 Merged PR [#31](https://github.com/DevzoneCommunity/faag_cli/pull/31) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+4. 📔 Created new repository [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+5. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
