@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+1. 💪 Opened PR [#7](https://github.com/pythonhubdev/react_learning/pull/7) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+2. 💪 Opened PR [#6](https://github.com/pythonhubdev/react_learning/pull/6) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+3. 💪 Opened PR [#5](https://github.com/pythonhubdev/react_learning/pull/5) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+4. 💪 Opened PR [#4](https://github.com/pythonhubdev/react_learning/pull/4) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+5. 💪 Opened PR [#3](https://github.com/pythonhubdev/react_learning/pull/3) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
