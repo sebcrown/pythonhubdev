@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#307](https://github.com/CollActionteam/collaction_app/issues/307#issuecomment-1462357930) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
-2. 💬 Commented on [#370](https://github.com/CollActionteam/collaction_app/issues/370#issuecomment-1462352374) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
-3. ❗️ Opened issue [#93](https://github.com/frictionlessdata/tableschema-sql-py/issues/93) in [frictionlessdata/tableschema-sql-py](https://github.com/frictionlessdata/tableschema-sql-py)
-4. ❌ Closed PR [#1](https://github.com/pythonhubdev/react_learning/pull/1) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
-5. ❌ Closed PR [#2](https://github.com/pythonhubdev/react_learning/pull/2) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+1. 👍 Approved [#57](https://github.com/DevzoneCommunity/PyNotion/pull/57#pullrequestreview-1333561720) in [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+2. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+3. 🎉 Merged PR [#58](https://github.com/DevzoneCommunity/PyNotion/pull/58) in [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+4. 💬 Commented on [#307](https://github.com/CollActionteam/collaction_app/issues/307#issuecomment-1462357930) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
+5. 💬 Commented on [#370](https://github.com/CollActionteam/collaction_app/issues/370#issuecomment-1462352374) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
