@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#370](https://github.com/CollActionteam/collaction_app/issues/370#issuecomment-1462352374) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
-2. ❗️ Opened issue [#93](https://github.com/frictionlessdata/tableschema-sql-py/issues/93) in [frictionlessdata/tableschema-sql-py](https://github.com/frictionlessdata/tableschema-sql-py)
-3. ❌ Closed PR [#1](https://github.com/pythonhubdev/react_learning/pull/1) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
-4. ❌ Closed PR [#2](https://github.com/pythonhubdev/react_learning/pull/2) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
-5. ❌ Closed PR [#3](https://github.com/pythonhubdev/react_learning/pull/3) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+1. 💬 Commented on [#307](https://github.com/CollActionteam/collaction_app/issues/307#issuecomment-1462357930) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
+2. 💬 Commented on [#370](https://github.com/CollActionteam/collaction_app/issues/370#issuecomment-1462352374) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
+3. ❗️ Opened issue [#93](https://github.com/frictionlessdata/tableschema-sql-py/issues/93) in [frictionlessdata/tableschema-sql-py](https://github.com/frictionlessdata/tableschema-sql-py)
+4. ❌ Closed PR [#1](https://github.com/pythonhubdev/react_learning/pull/1) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
+5. ❌ Closed PR [#2](https://github.com/pythonhubdev/react_learning/pull/2) in [pythonhubdev/react_learning](https://github.com/pythonhubdev/react_learning)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
