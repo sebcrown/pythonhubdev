@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#40](https://github.com/DevzoneCommunity/faag_cli/pull/40#issuecomment-1464048945) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-2. 💪 Opened PR [#40](https://github.com/DevzoneCommunity/faag_cli/pull/40) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-4. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-5. 🎉 Merged PR [#39](https://github.com/DevzoneCommunity/faag_cli/pull/39) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+1. 🎉 Merged PR [#41](https://github.com/DevzoneCommunity/faag_cli/pull/41) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+2. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+3. 💬 Commented on [#41](https://github.com/DevzoneCommunity/faag_cli/pull/41#issuecomment-1464061099) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+4. 💪 Opened PR [#41](https://github.com/DevzoneCommunity/faag_cli/pull/41) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+5. ✔️ Closed issue [#12](https://github.com/DevzoneCommunity/faag_cli/issues/12) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
