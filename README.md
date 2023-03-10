@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-3. 💬 Commented on [#307](https://github.com/CollActionteam/collaction_app/issues/307#issuecomment-1463291197) in [CollActionteam/collaction_app](https://github.com/CollActionteam/collaction_app)
-4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-5. ❌ Closed PR [#53](https://github.com/DevzoneCommunity/PyNotion/pull/53) in [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+1. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+2. 🎉 Merged PR [#39](https://github.com/DevzoneCommunity/faag_cli/pull/39) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+3. 💬 Commented on [#39](https://github.com/DevzoneCommunity/faag_cli/pull/39#issuecomment-1463620054) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+4. 💪 Opened PR [#39](https://github.com/DevzoneCommunity/faag_cli/pull/39) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
