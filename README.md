@@ -70,9 +70,9 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-2. 💬 Commented on [#50](https://github.com/DevzoneCommunity/faag_cli/pull/50#issuecomment-1478271476) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-3. 💪 Opened PR [#50](https://github.com/DevzoneCommunity/faag_cli/pull/50) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+1. ⬆️ Pushed 8 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+2. 🎉 Merged PR [#50](https://github.com/DevzoneCommunity/faag_cli/pull/50) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
 4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
 5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
 <!--RECENT_ACTIVITY:end-->
