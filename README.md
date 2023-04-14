@@ -70,10 +70,10 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.2.1](https://github.com/DevzoneCommunity/faag_cli/releases/tag/v0.2.1) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+2. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+4. ✌️ Released [v0.2.1](https://github.com/DevzoneCommunity/faag_cli/releases/tag/v0.2.1) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
 5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
 <!--RECENT_ACTIVITY:end-->
 
