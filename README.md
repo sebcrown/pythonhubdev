@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
-2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-3. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
-4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-5. ✌️ Released [v0.2.1](https://github.com/DevzoneCommunity/faag_cli/releases/tag/v0.2.1) in [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+1. 📔 Created new repository [pythonhubdev/flutter_tuts](https://github.com/pythonhubdev/flutter_tuts)
+2. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
+3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
+4. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+5. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
