@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 68 commit(s) to [pythonhubdev/github-readme-stats](https://github.com/pythonhubdev/github-readme-stats)
-2. 📔 Created new repository [pythonhubdev/flutter_tuts](https://github.com/pythonhubdev/flutter_tuts)
-3. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/face_characters_detection](https://github.com/DevzoneCommunity/face_characters_detection)
-4. ⬆️ Pushed 1 commit(s) to [DevzoneCommunity/PyNotion](https://github.com/DevzoneCommunity/PyNotion)
-5. ⬆️ Pushed 2 commit(s) to [DevzoneCommunity/faag_cli](https://github.com/DevzoneCommunity/faag_cli)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+3. ⬆️ Pushed 23 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+4. ⬆️ Pushed 23 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+5. ⬆️ Pushed 22 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
