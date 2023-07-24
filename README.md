@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [pythonhubdev/ecommerce_template_flutter](https://github.com/pythonhubdev/ecommerce_template_flutter)
-2. ⬆️ Pushed 3 commit(s) to [pythonhubdev/beanie](https://github.com/pythonhubdev/beanie)
+1. ⭐ Starred [erg-lang/erg](https://github.com/erg-lang/erg)
+2. 📔 Created new repository [pythonhubdev/ecommerce_template_flutter](https://github.com/pythonhubdev/ecommerce_template_flutter)
 3. ⬆️ Pushed 3 commit(s) to [pythonhubdev/beanie](https://github.com/pythonhubdev/beanie)
-4. ⬆️ Pushed 3 commit(s) to [pythonhubdev/google-keep-backend](https://github.com/pythonhubdev/google-keep-backend)
-5. 🔱 Forked [pythonhubdev/beanie](https://github.com/pythonhubdev/beanie) from [roman-right/beanie](https://github.com/roman-right/beanie)
+4. ⬆️ Pushed 3 commit(s) to [pythonhubdev/beanie](https://github.com/pythonhubdev/beanie)
+5. ⬆️ Pushed 3 commit(s) to [pythonhubdev/google-keep-backend](https://github.com/pythonhubdev/google-keep-backend)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
