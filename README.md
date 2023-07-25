@@ -72,9 +72,9 @@ Join me in my journey and let's build something amazing together!
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
-3. 📔 Created new repository [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
-4. ⭐ Starred [erg-lang/erg](https://github.com/erg-lang/erg)
-5. 📔 Created new repository [pythonhubdev/ecommerce_template_flutter](https://github.com/pythonhubdev/ecommerce_template_flutter)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
+4. 📔 Created new repository [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
+5. ⭐ Starred [erg-lang/erg](https://github.com/erg-lang/erg)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
