@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
+1. ⬆️ Pushed 4 commit(s) to [pythonhubdev/beanie](https://github.com/pythonhubdev/beanie)
+2. ⬆️ Pushed 4 commit(s) to [pythonhubdev/beanie](https://github.com/pythonhubdev/beanie)
 3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
-4. 📔 Created new repository [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
-5. ⭐ Starred [erg-lang/erg](https://github.com/erg-lang/erg)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
