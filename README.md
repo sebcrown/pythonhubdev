@@ -70,11 +70,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [swirlai/swirl-search](https://github.com/swirlai/swirl-search)
-2. ⬆️ Pushed 4 commit(s) to [pythonhubdev/beanie](https://github.com/pythonhubdev/beanie)
-3. ⬆️ Pushed 4 commit(s) to [pythonhubdev/beanie](https://github.com/pythonhubdev/beanie)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.nvim](https://github.com/pythonhubdev/.nvim)
+1. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
+2. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
+3. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
+4. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
+5. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
