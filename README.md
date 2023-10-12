@@ -6,6 +6,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+
+
 <!-- Title: End -->
 
 <!-- Social Badges: Start -->
@@ -19,6 +21,9 @@
 <a href="https://linkedin.com/in/vetrichelvan" align="center">
   <img alt="LinkedIn Follow" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="https://www.fiverr.com/pythonhub" align="center">
+  <img alt="LinkedIn Follow" align="center" src="https://img.shields.io/badge/fiverr-%1DBF73.svg?&style=for-the-badge&logo=fiverr&logoColor=white">
+</a>
 </p>
 <!-- Social Badges: End -->
 
@@ -28,7 +33,7 @@
 Hello friends 👋🏻, I'm a full-stack developer with a passion for technology and innovation. 
 I specialize in building full-stack web and mobile applications using Python, Flutter, and React.
 
-- 🚀 Currently building Devzone, an open-source community for developers
+- 🚀 Currently building Quantivio, an open-source community for developers
 - 💻 Experienced in developing projects like CRM, custom workflow engine, and APIs
 - 🌟 Contributing to open-source projects like FAAG and PyNotion
 - 📹 Sharing knowledge on YouTube and Twitter
@@ -70,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
-2. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
-3. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
-4. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
-5. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
+1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+2. 🎉 Merged PR [#2](https://github.com/pythonhubdev/Python-Starter-Codes/pull/2) in [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+3. 💪 Opened PR [#2](https://github.com/pythonhubdev/Python-Starter-Codes/pull/2) in [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+5. ⬆️ Pushed 4 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
