@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
-2. 🎉 Merged PR [#2](https://github.com/pythonhubdev/Python-Starter-Codes/pull/2) in [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
-3. 💪 Opened PR [#2](https://github.com/pythonhubdev/Python-Starter-Codes/pull/2) in [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
-5. ⬆️ Pushed 4 commit(s) to [pythonhubdev/Python-Starter-Codes](https://github.com/pythonhubdev/Python-Starter-Codes)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+3. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
+4. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
+5. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
 <!--RECENT_ACTIVITY:end-->
 
 ### 📺 Latest YouTube Videos
