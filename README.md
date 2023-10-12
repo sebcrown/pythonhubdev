@@ -94,5 +94,5 @@ Join me in my journey and let's build something amazing together!
 
 <br>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pythonhub's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=pythonhubdev&bg_color=151515&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+[![Vetrichelvan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pythonhubdev&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
