@@ -75,9 +75,9 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-3. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
 4. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
 5. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
 <!--RECENT_ACTIVITY:end-->
