@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-4. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
-5. ⬆️ Pushed 1 commit(s) to [Quantivio/.github](https://github.com/Quantivio/.github)
+1. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+2. ⭐ Starred [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis)
+3. ⭐ Starred [rune-rs/rune](https://github.com/rune-rs/rune)
+4. ⭐ Starred [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript)
+5. ⭐ Starred [RustPython/RustPython](https://github.com/RustPython/RustPython)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
