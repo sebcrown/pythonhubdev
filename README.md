@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-3. 🔱 Forked [pythonhubdev/whatsapp_clone_flutter](https://github.com/pythonhubdev/whatsapp_clone_flutter) from [DevStack06/Whatsapp-Clone-Flutter](https://github.com/DevStack06/Whatsapp-Clone-Flutter)
+1. ❌ Closed PR [#27](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/pull/27) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+2. ❌ Closed PR [#28](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/pull/28) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
 4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-5. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+5. 🔱 Forked [pythonhubdev/whatsapp_clone_flutter](https://github.com/pythonhubdev/whatsapp_clone_flutter) from [DevStack06/Whatsapp-Clone-Flutter](https://github.com/DevStack06/Whatsapp-Clone-Flutter)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
