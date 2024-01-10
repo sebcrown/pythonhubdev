@@ -76,10 +76,10 @@ Join me in my journey and let's build something amazing together!
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
-2. 🎉 Merged PR [#4](https://github.com/pythonhubdev/import_sorter/pull/4) in [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
-3. 💪 Opened PR [#4](https://github.com/pythonhubdev/import_sorter/pull/4) in [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
-4. ⬆️ Pushed 2 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
-5. 🎉 Merged PR [#3](https://github.com/pythonhubdev/import_sorter/pull/3) in [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
+2. 🎉 Merged PR [#6](https://github.com/pythonhubdev/import_sorter/pull/6) in [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
+3. 💪 Opened PR [#6](https://github.com/pythonhubdev/import_sorter/pull/6) in [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
+5. ⬆️ Pushed 3 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
