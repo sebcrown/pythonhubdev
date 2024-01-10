@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#63](https://github.com/fluttercommunity/import_sorter/issues/63#issuecomment-1884640673) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
-2. 💪 Opened PR [#70](https://github.com/fluttercommunity/import_sorter/pull/70) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
-4. 🔱 Forked [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter) from [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
-5. 💬 Commented on [#63](https://github.com/fluttercommunity/import_sorter/issues/63#issuecomment-1884432323) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
+1. ❌ Closed PR [#70](https://github.com/fluttercommunity/import_sorter/pull/70) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
+2. ⬆️ Pushed 0 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
+3. 💬 Commented on [#70](https://github.com/fluttercommunity/import_sorter/pull/70#issuecomment-1885218075) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
+4. 💬 Commented on [#63](https://github.com/fluttercommunity/import_sorter/issues/63#issuecomment-1884640673) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
+5. 💪 Opened PR [#70](https://github.com/fluttercommunity/import_sorter/pull/70) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
