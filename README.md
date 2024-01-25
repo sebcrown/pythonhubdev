@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-2. 💬 Commented on [#76](https://github.com/fluttercommunity/import_sorter/pull/76#issuecomment-1906673431) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
-3. 💬 Commented on [#75](https://github.com/fluttercommunity/import_sorter/pull/75#issuecomment-1900321639) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
-4. 💬 Commented on [#75](https://github.com/fluttercommunity/import_sorter/pull/75#issuecomment-1900030911) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
-5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+1. 🔱 Forked [pythonhubdev/shadcn-ui](https://github.com/pythonhubdev/shadcn-ui) from [nank1ro/shadcn-ui](https://github.com/nank1ro/shadcn-ui)
+2. ⬆️ Pushed 2 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+3. 💬 Commented on [#76](https://github.com/fluttercommunity/import_sorter/pull/76#issuecomment-1906673431) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
+4. 💬 Commented on [#75](https://github.com/fluttercommunity/import_sorter/pull/75#issuecomment-1900321639) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
+5. 💬 Commented on [#75](https://github.com/fluttercommunity/import_sorter/pull/75#issuecomment-1900030911) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
