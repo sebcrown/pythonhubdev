@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-2. ⬆️ Pushed 53 commit(s) to [pythonhubdev/shadcn-ui](https://github.com/pythonhubdev/shadcn-ui)
-3. 🔱 Forked [pythonhubdev/shadcn-ui](https://github.com/pythonhubdev/shadcn-ui) from [nank1ro/shadcn-ui](https://github.com/nank1ro/shadcn-ui)
-4. ⬆️ Pushed 2 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-5. 💬 Commented on [#76](https://github.com/fluttercommunity/import_sorter/pull/76#issuecomment-1906673431) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
+1. ❌ Closed PR [#67](https://github.com/Quantivio/PyNotion/pull/67) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+2. ❌ Closed PR [#70](https://github.com/Quantivio/PyNotion/pull/70) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+3. ❌ Closed PR [#59](https://github.com/Quantivio/PyNotion/pull/59) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+4. ❌ Closed PR [#73](https://github.com/Quantivio/PyNotion/pull/73) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+5. ❌ Closed PR [#74](https://github.com/Quantivio/PyNotion/pull/74) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
