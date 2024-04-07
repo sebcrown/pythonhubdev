@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-2. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-3. ❌ Closed PR [#67](https://github.com/Quantivio/PyNotion/pull/67) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-4. ❌ Closed PR [#70](https://github.com/Quantivio/PyNotion/pull/70) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-5. ❌ Closed PR [#59](https://github.com/Quantivio/PyNotion/pull/59) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+1. ❌ Closed PR [#33](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/pull/33) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+2. ❌ Closed PR [#31](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/pull/31) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
