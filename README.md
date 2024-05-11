@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-2. 💬 Commented on [#200](https://github.com/pgjones/hypercorn/issues/200#issuecomment-2058854687) in [pgjones/hypercorn](https://github.com/pgjones/hypercorn)
-3. ❗️ Opened issue [#214](https://github.com/pgjones/hypercorn/issues/214) in [pgjones/hypercorn](https://github.com/pgjones/hypercorn)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
-5. ❌ Closed PR [#33](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD/pull/33) in [pythonhubdev/firebase_authentication_flutter_DDD](https://github.com/pythonhubdev/firebase_authentication_flutter_DDD)
+1. ⭐ Starred [t4zzlerdeveloper/rubium](https://github.com/t4zzlerdeveloper/rubium)
+2. ⭐ Starred [LanarsInc/direct-select-flutter](https://github.com/LanarsInc/direct-select-flutter)
+3. ⭐ Starred [JHBitencourt/beautiful_timelines](https://github.com/JHBitencourt/beautiful_timelines)
+4. ⭐ Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
+5. ⭐ Starred [Roaa94/flutter_action_menu](https://github.com/Roaa94/flutter_action_menu)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
