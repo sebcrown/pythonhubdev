@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PythonNest/PyNest](https://github.com/PythonNest/PyNest)
-2. ⭐ Starred [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer)
-3. ⭐ Starred [t4zzlerdeveloper/rubium](https://github.com/t4zzlerdeveloper/rubium)
-4. ⭐ Starred [LanarsInc/direct-select-flutter](https://github.com/LanarsInc/direct-select-flutter)
-5. ⭐ Starred [JHBitencourt/beautiful_timelines](https://github.com/JHBitencourt/beautiful_timelines)
+1. ⬆️ Pushed 11 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
+2. ⬆️ Pushed 77 commit(s) to [pythonhubdev/shadcn-ui](https://github.com/pythonhubdev/shadcn-ui)
+3. ⭐ Starred [PythonNest/PyNest](https://github.com/PythonNest/PyNest)
+4. ⭐ Starred [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer)
+5. ⭐ Starred [t4zzlerdeveloper/rubium](https://github.com/t4zzlerdeveloper/rubium)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
