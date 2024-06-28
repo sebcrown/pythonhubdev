@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-2. ⭐ Starred [PythonNest/PyNest](https://github.com/PythonNest/PyNest)
-3. ⭐ Starred [google/mesop](https://github.com/google/mesop)
-4. ⬆️ Pushed 3 commit(s) to [pythonhubdev/flutter_plus](https://github.com/pythonhubdev/flutter_plus)
-5. ⬆️ Pushed 11 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
+1. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+2. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+3. ⬆️ Pushed 2 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+4. ⭐ Starred [PythonNest/PyNest](https://github.com/PythonNest/PyNest)
+5. ⭐ Starred [google/mesop](https://github.com/google/mesop)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
