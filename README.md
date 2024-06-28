@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [pythonhubdev/flutter_plus](https://github.com/pythonhubdev/flutter_plus)
-2. ⬆️ Pushed 11 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
-3. ⬆️ Pushed 77 commit(s) to [pythonhubdev/shadcn-ui](https://github.com/pythonhubdev/shadcn-ui)
-4. ⭐ Starred [PythonNest/PyNest](https://github.com/PythonNest/PyNest)
-5. ⭐ Starred [piercefreeman/mountaineer](https://github.com/piercefreeman/mountaineer)
+1. ⭐ Starred [PythonNest/PyNest](https://github.com/PythonNest/PyNest)
+2. ⭐ Starred [google/mesop](https://github.com/google/mesop)
+3. ⬆️ Pushed 3 commit(s) to [pythonhubdev/flutter_plus](https://github.com/pythonhubdev/flutter_plus)
+4. ⬆️ Pushed 11 commit(s) to [pythonhubdev/import_sorter](https://github.com/pythonhubdev/import_sorter)
+5. ⬆️ Pushed 77 commit(s) to [pythonhubdev/shadcn-ui](https://github.com/pythonhubdev/shadcn-ui)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
