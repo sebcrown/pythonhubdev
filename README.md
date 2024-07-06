@@ -75,8 +75,8 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-2. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+2. 📔 Created new repository [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
 3. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
 4. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
 5. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
