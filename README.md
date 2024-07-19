@@ -75,7 +75,7 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+1. ⭐ Starred [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
 3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
 4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
