@@ -75,10 +75,10 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [pythonhubdev/phase-0](https://github.com/pythonhubdev/phase-0)
-2. ⭐ Starred [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
+2. 📔 Created new repository [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
+3. 📔 Created new repository [pythonhubdev/phase-0](https://github.com/pythonhubdev/phase-0)
+4. ⭐ Starred [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
 5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
 <!--RECENT_ACTIVITY:end-->
 
