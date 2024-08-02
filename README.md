@@ -76,10 +76,10 @@ Join me in my journey and let's build something amazing together!
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
-2. 📔 Created new repository [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
-3. 📔 Created new repository [pythonhubdev/phase-0](https://github.com/pythonhubdev/phase-0)
-4. ⭐ Starred [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
+4. 📔 Created new repository [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
+5. 📔 Created new repository [pythonhubdev/phase-0](https://github.com/pythonhubdev/phase-0)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
