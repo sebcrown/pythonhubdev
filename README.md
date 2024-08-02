@@ -78,8 +78,8 @@ Join me in my journey and let's build something amazing together!
 1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
 3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
-4. 📔 Created new repository [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
-5. 📔 Created new repository [pythonhubdev/phase-0](https://github.com/pythonhubdev/phase-0)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/owow-backend](https://github.com/pythonhubdev/owow-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
