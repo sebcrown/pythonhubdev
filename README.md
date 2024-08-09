@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/pythonhubdev/product-fusion-service/pull/2) in [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
-2. ⬆️ Pushed 2 commit(s) to [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
-3. 💪 Opened PR [#2](https://github.com/pythonhubdev/product-fusion-service/pull/2) in [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
-5. ⬆️ Pushed 5 commit(s) to [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
+1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
+2. 🎉 Merged PR [#3](https://github.com/pythonhubdev/product-fusion-service/pull/3) in [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
+3. 💪 Opened PR [#3](https://github.com/pythonhubdev/product-fusion-service/pull/3) in [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
+4. 🎉 Merged PR [#2](https://github.com/pythonhubdev/product-fusion-service/pull/2) in [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
+5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
