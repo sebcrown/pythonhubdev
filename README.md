@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [skyplerai/backend_thirdeye](https://github.com/skyplerai/backend_thirdeye)
+1. 📔 Created new repository [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
 2. ⬆️ Pushed 1 commit(s) to [skyplerai/backend_thirdeye](https://github.com/skyplerai/backend_thirdeye)
 3. ⬆️ Pushed 1 commit(s) to [skyplerai/backend_thirdeye](https://github.com/skyplerai/backend_thirdeye)
-4. ❌ Closed PR [#1](https://github.com/skyplerai/backend_thirdeye/pull/1) in [skyplerai/backend_thirdeye](https://github.com/skyplerai/backend_thirdeye)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
+4. ⬆️ Pushed 1 commit(s) to [skyplerai/backend_thirdeye](https://github.com/skyplerai/backend_thirdeye)
+5. ❌ Closed PR [#1](https://github.com/skyplerai/backend_thirdeye/pull/1) in [skyplerai/backend_thirdeye](https://github.com/skyplerai/backend_thirdeye)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
