@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/pythonhubdev/videoverse-backend/pull/1) in [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
-2. ⬆️ Pushed 5 commit(s) to [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
 3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
 4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
-5. 💪 Opened PR [#1](https://github.com/pythonhubdev/videoverse-backend/pull/1) in [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
