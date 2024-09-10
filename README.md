@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#36](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/36#issuecomment-2318235393) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 💬 Commented on [#36](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/36#issuecomment-2318158453) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
+1. ❌ Closed PR [#2](https://github.com/pythonhubdev/auto-research-bot/pull/2) in [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+2. ❌ Closed PR [#1](https://github.com/pythonhubdev/auto-research-bot/pull/1) in [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+4. ❗️ Opened issue [#4](https://github.com/pythonhubdev/product-fusion-service/issues/4) in [pythonhubdev/product-fusion-service](https://github.com/pythonhubdev/product-fusion-service)
+5. ❗️ Opened issue [#2](https://github.com/pythonhubdev/videoverse-backend/issues/2) in [pythonhubdev/videoverse-backend](https://github.com/pythonhubdev/videoverse-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
