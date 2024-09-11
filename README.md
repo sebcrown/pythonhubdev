@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
-2. ❗️ Opened issue [#3](https://github.com/pythonhubdev/auto-research-bot/issues/3) in [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
-3. ❌ Closed PR [#2](https://github.com/pythonhubdev/auto-research-bot/pull/2) in [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
-4. ❌ Closed PR [#1](https://github.com/pythonhubdev/auto-research-bot/pull/1) in [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
+2. 📔 Created new repository [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
+3. ❗️ Opened issue [#3](https://github.com/pythonhubdev/auto-research-bot/issues/3) in [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+4. ❌ Closed PR [#2](https://github.com/pythonhubdev/auto-research-bot/pull/2) in [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+5. ❌ Closed PR [#1](https://github.com/pythonhubdev/auto-research-bot/pull/1) in [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
