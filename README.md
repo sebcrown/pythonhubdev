@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/pythonhubdev/zania-backend/pull/1) in [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
+1. ⬆️ Pushed 9 commit(s) to [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
+2. 🎉 Merged PR [#1](https://github.com/pythonhubdev/zania-backend/pull/1) in [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
 3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
 4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
+5. 💪 Opened PR [#1](https://github.com/pythonhubdev/zania-backend/pull/1) in [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
