@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/corrin/jobs_manager/pull/1) in [corrin/jobs_manager](https://github.com/corrin/jobs_manager)
-2. ⭐ Starred [demml/rusty-logger](https://github.com/demml/rusty-logger)
-3. ⬆️ Pushed 9 commit(s) to [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
-4. 🎉 Merged PR [#1](https://github.com/pythonhubdev/zania-backend/pull/1) in [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
+1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+2. 🎉 Merged PR [#4](https://github.com/pythonhubdev/auto-research-bot/pull/4) in [pythonhubdev/auto-research-bot](https://github.com/pythonhubdev/auto-research-bot)
+3. 💪 Opened PR [#1](https://github.com/corrin/jobs_manager/pull/1) in [corrin/jobs_manager](https://github.com/corrin/jobs_manager)
+4. ⭐ Starred [demml/rusty-logger](https://github.com/demml/rusty-logger)
+5. ⬆️ Pushed 9 commit(s) to [pythonhubdev/zania-backend](https://github.com/pythonhubdev/zania-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
