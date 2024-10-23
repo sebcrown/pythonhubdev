@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#124](https://github.com/Quantivio/PyNotion/issues/124) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-2. ⬆️ Pushed 5 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-3. 🎉 Merged PR [#125](https://github.com/Quantivio/PyNotion/pull/125) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-4. ⬆️ Pushed 1 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
-5. 💪 Opened PR [#125](https://github.com/Quantivio/PyNotion/pull/125) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+1. ❌ Closed PR [#99](https://github.com/Quantivio/PyNotion/pull/99) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+2. ❌ Closed PR [#109](https://github.com/Quantivio/PyNotion/pull/109) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+3. ❌ Closed PR [#117](https://github.com/Quantivio/PyNotion/pull/117) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+4. ❌ Closed PR [#120](https://github.com/Quantivio/PyNotion/pull/120) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+5. ❌ Closed PR [#121](https://github.com/Quantivio/PyNotion/pull/121) in [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
