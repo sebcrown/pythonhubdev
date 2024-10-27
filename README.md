@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#12](https://github.com/bhavaniravi/python-query-generator/issues/12) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-2. ❗️ Opened issue [#11](https://github.com/bhavaniravi/python-query-generator/issues/11) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-3. ❗️ Opened issue [#10](https://github.com/bhavaniravi/python-query-generator/issues/10) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-4. 💬 Commented on [#5](https://github.com/bhavaniravi/python-query-generator/issues/5#issuecomment-2440062352) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-5. ⬆️ Pushed 2 commit(s) to [Quantivio/PyNotion](https://github.com/Quantivio/PyNotion)
+1. ✔️ Closed issue [#10](https://github.com/bhavaniravi/python-query-generator/issues/10) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+2. ✔️ Closed issue [#11](https://github.com/bhavaniravi/python-query-generator/issues/11) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+3. ❗️ Opened issue [#12](https://github.com/bhavaniravi/python-query-generator/issues/12) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+4. ❗️ Opened issue [#11](https://github.com/bhavaniravi/python-query-generator/issues/11) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+5. ❗️ Opened issue [#10](https://github.com/bhavaniravi/python-query-generator/issues/10) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
