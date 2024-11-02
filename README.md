@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#17](https://github.com/bhavaniravi/python-query-generator/pull/17#issuecomment-2452663196) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-2. 💪 Opened PR [#17](https://github.com/bhavaniravi/python-query-generator/pull/17) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-3. 💬 Commented on [#13](https://github.com/bhavaniravi/python-query-generator/pull/13#issuecomment-2452632853) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-4. 💪 Opened PR [#16](https://github.com/bhavaniravi/python-query-generator/pull/16) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-5. 💬 Commented on [#13](https://github.com/bhavaniravi/python-query-generator/pull/13#issuecomment-2452620207) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+1. ⬆️ Pushed 1 commit(s) to [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+2. 💬 Commented on [#17](https://github.com/bhavaniravi/python-query-generator/pull/17#issuecomment-2452663196) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+3. 💪 Opened PR [#17](https://github.com/bhavaniravi/python-query-generator/pull/17) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+4. 💬 Commented on [#13](https://github.com/bhavaniravi/python-query-generator/pull/13#issuecomment-2452632853) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+5. 💪 Opened PR [#16](https://github.com/bhavaniravi/python-query-generator/pull/16) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
