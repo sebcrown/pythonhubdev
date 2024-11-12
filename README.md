@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-2. ⬆️ Pushed 1 commit(s) to [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-3. 💬 Commented on [#16](https://github.com/bhavaniravi/python-query-generator/pull/16#issuecomment-2453495325) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-4. 💪 Opened PR [#18](https://github.com/bhavaniravi/python-query-generator/pull/18) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
-5. 💬 Commented on [#13](https://github.com/bhavaniravi/python-query-generator/pull/13#issuecomment-2453178958) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+2. 📔 Created new repository [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+3. ⬆️ Pushed 1 commit(s) to [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+4. 💬 Commented on [#16](https://github.com/bhavaniravi/python-query-generator/pull/16#issuecomment-2453495325) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+5. 💪 Opened PR [#18](https://github.com/bhavaniravi/python-query-generator/pull/18) in [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
