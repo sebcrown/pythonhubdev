@@ -75,11 +75,11 @@ Join me in my journey and let's build something amazing together!
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [pythonhubdev/rust-learning](https://github.com/pythonhubdev/rust-learning)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/rust-learning](https://github.com/pythonhubdev/rust-learning)
+2. 📔 Created new repository [pythonhubdev/rust-learning](https://github.com/pythonhubdev/rust-learning)
 3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-4. 📔 Created new repository [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-5. ⬆️ Pushed 1 commit(s) to [bhavaniravi/python-query-generator](https://github.com/bhavaniravi/python-query-generator)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+5. 📔 Created new repository [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
