@@ -77,8 +77,8 @@ Join me in my journey and let's build something amazing together!
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/rust-learning](https://github.com/pythonhubdev/rust-learning)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/rust-learning](https://github.com/pythonhubdev/rust-learning)
-3. 📔 Created new repository [pythonhubdev/rust-learning](https://github.com/pythonhubdev/rust-learning)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/rust-learning](https://github.com/pythonhubdev/rust-learning)
+4. 📔 Created new repository [pythonhubdev/rust-learning](https://github.com/pythonhubdev/rust-learning)
 5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
 <!--RECENT_ACTIVITY:end-->
 
