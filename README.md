@@ -77,9 +77,9 @@ Join me in my journey and let's build something amazing together!
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.dotfiles](https://github.com/pythonhubdev/.dotfiles)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.dotfiles](https://github.com/pythonhubdev/.dotfiles)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.dotfiles](https://github.com/pythonhubdev/.dotfiles)
 4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.dotfiles](https://github.com/pythonhubdev/.dotfiles)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.dotfiles](https://github.com/pythonhubdev/.dotfiles)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
