@@ -30,18 +30,19 @@
 <!-- About: Start -->
 
 ```yaml
-Hello friends 👋🏻, I'm a full-stack developer with a passion for technology and innovation. 
-I specialize in building full-stack web and mobile applications using Python, Flutter, and React.
+👋🏻 Hey, I’m Vetrichelvan 
+Full-Stack Developer | Open-Source Advocate
 
-- 🚀 Currently building Quantivio, an open-source community for developers
-- 💻 Experienced in developing projects like CRM, custom workflow engine, and APIs
-- 🌟 Contributing to open-source projects like FAAG and PyNotion
-- 📹 Sharing knowledge on YouTube and Twitter
-- ☕️ Fueled by caffeine
-- 🎵 Love to play, relax, and enjoy music
-- 🏏 Cricket fan
+I architect full-stack solutions with Python, Flutter, React, and a dash of FastAPI/ Litestar/ Node.js magic 🪄. 
+Obsessed with clean code, scalable systems, and bridging the gap between ideas and execution.  
 
-Join me in my journey and let's build something amazing together!
+💼 What I’m Up To:
+- Building Quantivio: An open-source hub for developers to collaborate on various projects
+- Open-Source: Contributor to FAAG + PyNotion (Python SDK)  
+- Fuel: ☕️ Cold brew + 🎧 Lo-fi beats  
+- Recharge: Cricket 🏏 + retro gaming  
+
+🚀 Let’s Build the Future
 ```
 <!-- About: End -->
 
