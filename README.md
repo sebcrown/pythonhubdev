@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/node-ssr-redis](https://github.com/pythonhubdev/node-ssr-redis)
-3. 📔 Created new repository [pythonhubdev/node-ssr-redis](https://github.com/pythonhubdev/node-ssr-redis)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/.dotfiles](https://github.com/pythonhubdev/.dotfiles)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/node-ssr-redis](https://github.com/pythonhubdev/node-ssr-redis)
+4. 📔 Created new repository [pythonhubdev/node-ssr-redis](https://github.com/pythonhubdev/node-ssr-redis)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
