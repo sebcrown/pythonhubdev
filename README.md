@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
-2. 🎉 Merged PR [#7](https://github.com/pythonhubdev/coteach-ai/pull/7) in [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
-3. 💪 Opened PR [#7](https://github.com/pythonhubdev/coteach-ai/pull/7) in [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
-4. ⬆️ Pushed 4 commit(s) to [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
-5. 🎉 Merged PR [#6](https://github.com/pythonhubdev/coteach-ai/pull/6) in [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
+1. 🎉 Merged PR [#8](https://github.com/pythonhubdev/coteach-ai/pull/8) in [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
+2. ⬆️ Pushed 3 commit(s) to [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
+4. 💪 Opened PR [#8](https://github.com/pythonhubdev/coteach-ai/pull/8) in [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
+5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
