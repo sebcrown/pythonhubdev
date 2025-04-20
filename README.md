@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-3. 🎉 Merged PR [#8](https://github.com/pythonhubdev/coteach-ai/pull/8) in [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
-4. ⬆️ Pushed 3 commit(s) to [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/coteach-ai](https://github.com/pythonhubdev/coteach-ai)
+1. 💪 Opened PR [#181](https://github.com/surrealdb/surrealdb.py/pull/181) in [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py)
+3. 🔱 Forked [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py) from [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
