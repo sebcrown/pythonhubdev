@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#181](https://github.com/surrealdb/surrealdb.py/pull/181) in [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py)
-3. 🔱 Forked [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py) from [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+3. 💪 Opened PR [#181](https://github.com/surrealdb/surrealdb.py/pull/181) in [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py)
+5. 🔱 Forked [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py) from [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
