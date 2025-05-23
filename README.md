@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-2904057984) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
-2. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-2903996468) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
-3. 💪 Opened PR [#591](https://github.com/supertokens/supertokens-python/pull/591) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
-5. 🔱 Forked [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python) from [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+2. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-2904057984) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+3. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-2903996468) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+4. 💪 Opened PR [#591](https://github.com/supertokens/supertokens-python/pull/591) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
