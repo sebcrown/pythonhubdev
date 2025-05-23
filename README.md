@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-4. 💬 Commented on [#9905](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9905#issuecomment-2902081613) in [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)
-5. 💬 Commented on [#9905](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9905#issuecomment-2902045567) in [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)
+1. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-2903996468) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+2. 💪 Opened PR [#591](https://github.com/supertokens/supertokens-python/pull/591) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+4. 🔱 Forked [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python) from [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
