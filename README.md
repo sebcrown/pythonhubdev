@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [pythonhubdev/inpycon2025](https://github.com/pythonhubdev/inpycon2025) from [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
-2. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-2905182091) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
-3. ⬆️ Pushed 2 commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
-5. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-2904057984) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+1. 💬 Commented on [#52](https://github.com/pythonindia/inpycon2025/issues/52#issuecomment-2905863788) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
+2. 💬 Commented on [#23](https://github.com/pythonindia/inpycon2025/issues/23#issuecomment-2905856915) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
+3. 💪 Opened PR [#86](https://github.com/pythonindia/inpycon2025/pull/86) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
+4. ⬆️ Pushed 2 commit(s) to [pythonhubdev/inpycon2025](https://github.com/pythonhubdev/inpycon2025)
+5. 🔱 Forked [pythonhubdev/inpycon2025](https://github.com/pythonhubdev/inpycon2025) from [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
