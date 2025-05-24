@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#86](https://github.com/pythonindia/inpycon2025/pull/86#issuecomment-2906785341) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
-2. 💬 Commented on [#52](https://github.com/pythonindia/inpycon2025/issues/52#issuecomment-2905863788) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
-3. 💬 Commented on [#23](https://github.com/pythonindia/inpycon2025/issues/23#issuecomment-2905856915) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
-4. 💪 Opened PR [#86](https://github.com/pythonindia/inpycon2025/pull/86) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
-5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/inpycon2025](https://github.com/pythonhubdev/inpycon2025)
+1. ⭐ Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
+2. 💬 Commented on [#86](https://github.com/pythonindia/inpycon2025/pull/86#issuecomment-2906785341) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
+3. 💬 Commented on [#52](https://github.com/pythonindia/inpycon2025/issues/52#issuecomment-2905863788) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
+4. 💬 Commented on [#23](https://github.com/pythonindia/inpycon2025/issues/23#issuecomment-2905856915) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
+5. 💪 Opened PR [#86](https://github.com/pythonindia/inpycon2025/pull/86) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
