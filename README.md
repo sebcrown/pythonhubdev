@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-2909576155) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
-2. ⭐ Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
-3. 💬 Commented on [#86](https://github.com/pythonindia/inpycon2025/pull/86#issuecomment-2906785341) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
-4. 💬 Commented on [#52](https://github.com/pythonindia/inpycon2025/issues/52#issuecomment-2905863788) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
-5. 💬 Commented on [#23](https://github.com/pythonindia/inpycon2025/issues/23#issuecomment-2905856915) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
+1. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-2913985506) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+3. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#discussion_r2110167837) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+4. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#discussion_r2110166789) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+5. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#discussion_r2110166490) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
