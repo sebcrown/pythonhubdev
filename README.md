@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [pythonhubdev/vosk-api](https://github.com/pythonhubdev/vosk-api)
-2. 🎉 Merged PR [#1](https://github.com/pythonhubdev/vosk-api/pull/1) in [pythonhubdev/vosk-api](https://github.com/pythonhubdev/vosk-api)
-3. 💪 Opened PR [#1](https://github.com/pythonhubdev/vosk-api/pull/1) in [pythonhubdev/vosk-api](https://github.com/pythonhubdev/vosk-api)
-4. 💪 Opened PR [#1946](https://github.com/alphacep/vosk-api/pull/1946) in [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
-5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/vosk-api](https://github.com/pythonhubdev/vosk-api)
+1. 💬 Commented on [#1946](https://github.com/alphacep/vosk-api/pull/1946#issuecomment-3050677546) in [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
+2. 💬 Commented on [#1946](https://github.com/alphacep/vosk-api/pull/1946#issuecomment-3050676771) in [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
+3. 💬 Commented on [#448](https://github.com/NexaAI/nexa-sdk/issues/448#issuecomment-3050650770) in [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk)
+4. ⬆️ Pushed 3 commit(s) to [pythonhubdev/vosk-api](https://github.com/pythonhubdev/vosk-api)
+5. 🎉 Merged PR [#1](https://github.com/pythonhubdev/vosk-api/pull/1) in [pythonhubdev/vosk-api](https://github.com/pythonhubdev/vosk-api)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
