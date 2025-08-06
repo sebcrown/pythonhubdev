@@ -76,11 +76,11 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 107 commit(s) to [pythonhubdev/FrameworkBenchmarks](https://github.com/pythonhubdev/FrameworkBenchmarks)
-2. ❌ Closed PR [#181](https://github.com/surrealdb/surrealdb.py/pull/181) in [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
-3. ⬆️ Pushed 9 commit(s) to [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py)
-4. ⬆️ Pushed 44 commit(s) to [pythonhubdev/Robyn](https://github.com/pythonhubdev/Robyn)
-5. ⬆️ Pushed 25 commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+1. ⬆️ Pushed 121 commit(s) to [pythonhubdev/FrameworkBenchmarks](https://github.com/pythonhubdev/FrameworkBenchmarks)
+2. ⬆️ Pushed 107 commit(s) to [pythonhubdev/FrameworkBenchmarks](https://github.com/pythonhubdev/FrameworkBenchmarks)
+3. ❌ Closed PR [#181](https://github.com/surrealdb/surrealdb.py/pull/181) in [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
+4. ⬆️ Pushed 9 commit(s) to [pythonhubdev/surrealdb.py](https://github.com/pythonhubdev/surrealdb.py)
+5. ⬆️ Pushed 44 commit(s) to [pythonhubdev/Robyn](https://github.com/pythonhubdev/Robyn)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
