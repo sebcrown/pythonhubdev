@@ -1,4 +1,3 @@
-
 <!-- Title: Start -->
 
 <h1 align="center">
@@ -30,19 +29,19 @@
 <!-- About: Start -->
 
 ```yaml
-👋🏻 Hey, I’m Vetrichelvan 
-Full-Stack Developer | Open-Source Advocate
+👋🏻 Hey, I’m Vetrichelvan
+  Full-Stack Developer | Open-Source Advocate
 
-I architect full-stack solutions with Python, Flutter, React, and a dash of FastAPI/ Litestar/ Node.js magic 🪄. 
-Obsessed with clean code, scalable systems, and bridging the gap between ideas and execution.  
+  I architect full-stack solutions with Python, Flutter, React, and a dash of FastAPI/ Litestar/ Node.js magic 🪄.
+  Obsessed with clean code, scalable systems, and bridging the gap between ideas and execution.
 
 💼 What I’m Up To:
-- Building Quantivio: An open-source hub for developers to collaborate on various projects
-- Open-Source: Contributor to FAAG + PyNotion (Python SDK)  
-- Fuel: ☕️ Cold brew + 🎧 Lo-fi beats  
-- Recharge: Cricket 🏏 + retro gaming  
+  - Building Quantivio: An open-source hub for developers to collaborate on various projects
+  - Open-Source: Contributor to FAAG + PyNotion (Python SDK)
+  - Fuel: ☕️ Cold brew + 🎧 Lo-fi beats
+  - Recharge: Cricket 🏏 + retro gaming
 
-🚀 Let’s Build the Future
+  🚀 Let’s Build the Future
 ```
 
 <!-- About: End -->
@@ -79,11 +78,15 @@ Obsessed with clean code, scalable systems, and bridging the gap between ideas a
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#9905](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9905#issuecomment-3160223621) in [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)
+
+1. 💬 Commented on [#9905](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9905#issuecomment-3160223621)
+   in [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/FrameworkBenchmarks](https://github.com/pythonhubdev/FrameworkBenchmarks)
 3. ⬆️ Pushed 121 commit(s) to [pythonhubdev/FrameworkBenchmarks](https://github.com/pythonhubdev/FrameworkBenchmarks)
 4. ⬆️ Pushed 107 commit(s) to [pythonhubdev/FrameworkBenchmarks](https://github.com/pythonhubdev/FrameworkBenchmarks)
-5. ❌ Closed PR [#181](https://github.com/surrealdb/surrealdb.py/pull/181) in [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
+5. ❌ Closed PR [#181](https://github.com/surrealdb/surrealdb.py/pull/181)
+   in [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
+
 <!--RECENT_ACTIVITY:end-->
 
 <br>
