@@ -78,15 +78,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-
-1. 💬 Commented on [#9905](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9905#issuecomment-3160223621)
-   in [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)
+1. 💬 Commented on [#9905](https://github.com/TechEmpower/FrameworkBenchmarks/pull/9905#issuecomment-3160223621) in [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/FrameworkBenchmarks](https://github.com/pythonhubdev/FrameworkBenchmarks)
 3. ⬆️ Pushed 121 commit(s) to [pythonhubdev/FrameworkBenchmarks](https://github.com/pythonhubdev/FrameworkBenchmarks)
 4. ⬆️ Pushed 107 commit(s) to [pythonhubdev/FrameworkBenchmarks](https://github.com/pythonhubdev/FrameworkBenchmarks)
-5. ❌ Closed PR [#181](https://github.com/surrealdb/surrealdb.py/pull/181)
-   in [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
-
+5. ❌ Closed PR [#181](https://github.com/surrealdb/surrealdb.py/pull/181) in [surrealdb/surrealdb.py](https://github.com/surrealdb/surrealdb.py)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
