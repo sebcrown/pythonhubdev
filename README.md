@@ -85,7 +85,6 @@
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
 3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
 4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
-5. ⭐ Starred [surrealdb/surrealmcp](https://github.com/surrealdb/surrealmcp)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
