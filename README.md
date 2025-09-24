@@ -82,9 +82,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#84](https://github.com/fluttercommunity/import_sorter/issues/84#issuecomment-3304439746) in [fluttercommunity/import_sorter](https://github.com/fluttercommunity/import_sorter)
-2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
-3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
