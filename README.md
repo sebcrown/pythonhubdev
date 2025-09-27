@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#75](https://github.com/pythonhubdev/scaffoldr/pull/75) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-2. ❌ Closed PR [#76](https://github.com/pythonhubdev/scaffoldr/pull/76) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-3. ❌ Closed PR [#78](https://github.com/pythonhubdev/scaffoldr/pull/78) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-4. ❌ Closed PR [#81](https://github.com/pythonhubdev/scaffoldr/pull/81) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-5. ❌ Closed PR [#82](https://github.com/pythonhubdev/scaffoldr/pull/82) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
+2. ✔️ Closed issue [#86](https://github.com/pythonhubdev/scaffoldr/issues/86) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
+3. 🎉 Merged PR [#87](https://github.com/pythonhubdev/scaffoldr/pull/87) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
+4. 👍 Approved [#87](https://github.com/pythonhubdev/scaffoldr/pull/87#pullrequestreview-3274891254) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
