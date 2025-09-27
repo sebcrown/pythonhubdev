@@ -84,8 +84,8 @@
 1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
 2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
 3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-4. ✔️ Closed issue [#86](https://github.com/pythonhubdev/scaffoldr/issues/86) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-5. 🎉 Merged PR [#87](https://github.com/pythonhubdev/scaffoldr/pull/87) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
