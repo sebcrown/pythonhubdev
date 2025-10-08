@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-2. 🎉 Merged PR [#89](https://github.com/pythonhubdev/scaffoldr/pull/89) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-3. 💬 Commented on [#89](https://github.com/pythonhubdev/scaffoldr/pull/89#discussion_r2385875505) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-4. 💬 Commented on [#89](https://github.com/pythonhubdev/scaffoldr/pull/89#discussion_r2385868705) in [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
-5. ⬆️ Pushed 2 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
+1. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
+2. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+3. ⬆️ Pushed 1 commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
+4. ⬆️ Pushed 1 commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+5. ⬆️ Pushed 1 commit(s) to [pythonhubdev/scaffoldr](https://github.com/pythonhubdev/scaffoldr)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
