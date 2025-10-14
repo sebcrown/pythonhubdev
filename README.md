@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+1. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
-4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-5. ⭐ Starred [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect)
+3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
+5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
