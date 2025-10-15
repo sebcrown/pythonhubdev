@@ -81,10 +81,10 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
-4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/dotfiles](https://github.com/pythonhubdev/dotfiles)
+1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
+2. 💪 Opened PR [#2](undefined) in [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
+3. ❌ Closed PR [#1](undefined) in [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
+4. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
 <!--RECENT_ACTIVITY:end-->
 
