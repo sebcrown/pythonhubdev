@@ -82,10 +82,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
-2. 💪 Opened PR [#2](undefined) in [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
-3. ❌ Closed PR [#1](undefined) in [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
-4. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/nvim](https://github.com/pythonhubdev/nvim)
+2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
+3. 💪 Opened PR [#3](undefined) in [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
+4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
+5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
