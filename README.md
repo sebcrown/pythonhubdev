@@ -83,8 +83,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
 2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
-3. 💪 Opened PR [#3](undefined) in [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
-4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
+3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
+4. 💪 Opened PR [#3](undefined) in [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
 5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/feedback](https://github.com/pythonhubdev/feedback)
 <!--RECENT_ACTIVITY:end-->
 
