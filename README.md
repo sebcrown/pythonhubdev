@@ -81,8 +81,8 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [imputnet/helium](https://github.com/imputnet/helium)
-2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/mentorship.01](https://github.com/pythonhubdev/mentorship.01)
+1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/mentorship.01](https://github.com/pythonhubdev/mentorship.01)
+2. ⭐ Starred [imputnet/helium](https://github.com/imputnet/helium)
 3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/mentorship.01](https://github.com/pythonhubdev/mentorship.01)
 4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/mentorship.01](https://github.com/pythonhubdev/mentorship.01)
 5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/mentorship.01](https://github.com/pythonhubdev/mentorship.01)
