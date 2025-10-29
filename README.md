@@ -84,8 +84,8 @@
 1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
 2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
 3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
-4. ⭐ Starred [tazatechnology/flutter-tailwind-ui](https://github.com/tazatechnology/flutter-tailwind-ui)
-5. ❌ Closed PR [#7](undefined) in [pythonhubdev/mentorship-01](https://github.com/pythonhubdev/mentorship-01)
+4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+5. ⭐ Starred [tazatechnology/flutter-tailwind-ui](https://github.com/tazatechnology/flutter-tailwind-ui)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
