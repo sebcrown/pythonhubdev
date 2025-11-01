@@ -83,9 +83,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
 2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
-3. 🔱 Forked [pythonhubdev/router](https://github.com/pythonhubdev/router) from [pythonhubdev/router](https://github.com/pythonhubdev/router)
-4. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3473072621) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
-5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+4. 🔱 Forked [pythonhubdev/router](https://github.com/pythonhubdev/router) from [pythonhubdev/router](https://github.com/pythonhubdev/router)
+5. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3473072621) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
