@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [btwld/mix](https://github.com/btwld/mix)
-2. ⭐ Starred [charmbracelet/crush](https://github.com/charmbracelet/crush)
-3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
-4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
-5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+4. ⭐ Starred [btwld/mix](https://github.com/btwld/mix)
+5. ⭐ Starred [charmbracelet/crush](https://github.com/charmbracelet/crush)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
