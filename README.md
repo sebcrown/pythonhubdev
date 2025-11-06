@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/github-readme-stats](https://github.com/pythonhubdev/github-readme-stats)
 2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
 3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-4. ⭐ Starred [btwld/mix](https://github.com/btwld/mix)
-5. ⭐ Starred [charmbracelet/crush](https://github.com/charmbracelet/crush)
+4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
+5. ⭐ Starred [btwld/mix](https://github.com/btwld/mix)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
