@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yoyo930021/flutter_compositions](https://github.com/yoyo930021/flutter_compositions)
-2. ⭐ Starred [Norbert515/nocterm](https://github.com/Norbert515/nocterm)
-3. 🔱 Forked [pythonhubdev/Analog](https://github.com/pythonhubdev/Analog) from [pythonhubdev/Analog](https://github.com/pythonhubdev/Analog)
-4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/router](https://github.com/pythonhubdev/router)
-5. ⭐ Starred [analogdotnow/Analog](https://github.com/analogdotnow/Analog)
+1. ⭐ Starred [DotCorr/DCFlight](https://github.com/DotCorr/DCFlight)
+2. ⭐ Starred [yoyo930021/flutter_compositions](https://github.com/yoyo930021/flutter_compositions)
+3. ⭐ Starred [Norbert515/nocterm](https://github.com/Norbert515/nocterm)
+4. 🔱 Forked [pythonhubdev/Analog](https://github.com/pythonhubdev/Analog) from [pythonhubdev/Analog](https://github.com/pythonhubdev/Analog)
+5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/router](https://github.com/pythonhubdev/router)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
