@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/router](https://github.com/pythonhubdev/router)
-2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/router](https://github.com/pythonhubdev/router)
-3. ⭐ Starred [DotCorr/DCFlight](https://github.com/DotCorr/DCFlight)
-4. ⭐ Starred [yoyo930021/flutter_compositions](https://github.com/yoyo930021/flutter_compositions)
-5. ⭐ Starred [Norbert515/nocterm](https://github.com/Norbert515/nocterm)
+1. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3540041009) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+4. 💪 Opened PR [#1](undefined) in [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/router](https://github.com/pythonhubdev/router)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
