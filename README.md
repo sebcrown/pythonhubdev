@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3566048855) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
-2. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3565984751) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
-3. 💬 Commented on [#1](https://github.com/flutter-it/route_it/issues/1#issuecomment-3561512188) in [flutter-it/route_it](https://github.com/flutter-it/route_it)
-4. 💬 Commented on [#1](https://github.com/flutter-it/route_it/issues/1#issuecomment-3554507332) in [flutter-it/route_it](https://github.com/flutter-it/route_it)
-5. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3540264443) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+1. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3566268045) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-python](https://github.com/pythonhubdev/supertokens-python)
+3. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3566048855) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+4. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3565984751) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+5. 💬 Commented on [#1](https://github.com/flutter-it/route_it/issues/1#issuecomment-3561512188) in [flutter-it/route_it](https://github.com/flutter-it/route_it)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
