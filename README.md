@@ -83,7 +83,7 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [medz/flutter-arcade-ui](https://github.com/medz/flutter-arcade-ui)
 2. 💪 Opened PR [#71](undefined) in [supertokens/supertokens-flutter](https://github.com/supertokens/supertokens-flutter)
-3. 🔱 Forked [pythonhubdev/supertokens-flutter](https://github.com/pythonhubdev/supertokens-flutter) from [pythonhubdev/supertokens-flutter](https://github.com/pythonhubdev/supertokens-flutter)
+3. 🔱 Forked [pythonhubdev/supertokens-flutter](https://github.com/pythonhubdev/supertokens-flutter) from [supertokens/supertokens-flutter](https://github.com/supertokens/supertokens-flutter)
 4. 💬 Commented on [#500](https://github.com/Milad-Akarie/injectable/issues/500#issuecomment-3576664554) in [Milad-Akarie/injectable](https://github.com/Milad-Akarie/injectable)
 5. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3574623939) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
 <!--RECENT_ACTIVITY:end-->
