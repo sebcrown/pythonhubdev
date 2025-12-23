@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3002](undefined) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
-2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/virtualenv](https://github.com/pythonhubdev/virtualenv)
-3. 🔱 Forked [pythonhubdev/virtualenv](https://github.com/pythonhubdev/virtualenv) from [pypa/virtualenv](https://github.com/pypa/virtualenv)
-4. 💪 Opened PR [#3600](undefined) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pre-commit](https://github.com/pythonhubdev/pre-commit)
+1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pipecat](https://github.com/pythonhubdev/pipecat)
+2. 🔱 Forked [pythonhubdev/pipecat](https://github.com/pythonhubdev/pipecat) from [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+3. 💪 Opened PR [#3002](undefined) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/virtualenv](https://github.com/pythonhubdev/virtualenv)
+5. 🔱 Forked [pythonhubdev/virtualenv](https://github.com/pythonhubdev/virtualenv) from [pypa/virtualenv](https://github.com/pypa/virtualenv)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
