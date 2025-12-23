@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-flutter](https://github.com/pythonhubdev/supertokens-flutter)
-2. 💬 Commented on [#4](https://github.com/medz/flutter-arcade-ui/issues/4#issuecomment-3667072539) in [medz/flutter-arcade-ui](https://github.com/medz/flutter-arcade-ui)
-3. ❗️ Opened issue [#4](https://github.com/medz/flutter-arcade-ui/issues/4) in [medz/flutter-arcade-ui](https://github.com/medz/flutter-arcade-ui)
-4. ⭐ Starred [medz/flutter-arcade-ui](https://github.com/medz/flutter-arcade-ui)
-5. 💬 Commented on [#9899](https://github.com/TechEmpower/FrameworkBenchmarks/issues/9899#issuecomment-3632297331) in [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)
+1. 🔱 Forked [pythonhubdev/pre-commit](https://github.com/pythonhubdev/pre-commit) from [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-flutter](https://github.com/pythonhubdev/supertokens-flutter)
+3. 💬 Commented on [#4](https://github.com/medz/flutter-arcade-ui/issues/4#issuecomment-3667072539) in [medz/flutter-arcade-ui](https://github.com/medz/flutter-arcade-ui)
+4. ❗️ Opened issue [#4](https://github.com/medz/flutter-arcade-ui/issues/4) in [medz/flutter-arcade-ui](https://github.com/medz/flutter-arcade-ui)
+5. ⭐ Starred [medz/flutter-arcade-ui](https://github.com/medz/flutter-arcade-ui)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
