@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3600](undefined) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pre-commit](https://github.com/pythonhubdev/pre-commit)
-3. 🔱 Forked [pythonhubdev/pre-commit](https://github.com/pythonhubdev/pre-commit) from [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
-4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-flutter](https://github.com/pythonhubdev/supertokens-flutter)
-5. 💬 Commented on [#4](https://github.com/medz/flutter-arcade-ui/issues/4#issuecomment-3667072539) in [medz/flutter-arcade-ui](https://github.com/medz/flutter-arcade-ui)
+1. 💪 Opened PR [#3002](undefined) in [pypa/virtualenv](https://github.com/pypa/virtualenv)
+2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/virtualenv](https://github.com/pythonhubdev/virtualenv)
+3. 🔱 Forked [pythonhubdev/virtualenv](https://github.com/pythonhubdev/virtualenv) from [pypa/virtualenv](https://github.com/pypa/virtualenv)
+4. 💪 Opened PR [#3600](undefined) in [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pre-commit](https://github.com/pythonhubdev/pre-commit)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
