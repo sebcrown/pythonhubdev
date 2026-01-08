@@ -85,7 +85,7 @@
 2. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 3. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 4. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-5. 🔱 Forked [voxloom/pipecat](https://github.com/voxloom/pipecat) from [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+5. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
