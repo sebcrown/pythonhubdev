@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-2. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+1. 💬 Commented on [#591](https://github.com/supertokens/supertokens-python/pull/591#issuecomment-3806914885) in [supertokens/supertokens-python](https://github.com/supertokens/supertokens-python)
+2. 💬 Commented on [#25933](https://github.com/oven-sh/bun/issues/25933#issuecomment-3806904658) in [oven-sh/bun](https://github.com/oven-sh/bun)
 3. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 4. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-5. 💪 Opened PR [#1](undefined) in [voxloom/pipecat](https://github.com/voxloom/pipecat)
+5. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
