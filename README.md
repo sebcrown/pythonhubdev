@@ -84,8 +84,8 @@
 1. ⬆️ Pushed undefined commit(s) to [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
 2. ⬆️ Pushed undefined commit(s) to [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
 3. ⬆️ Pushed undefined commit(s) to [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
-4. 🤝 Became collaborator on [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
-5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/github-readme-stats](https://github.com/pythonhubdev/github-readme-stats)
+4. ⬆️ Pushed undefined commit(s) to [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
+5. 🤝 Became collaborator on [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
