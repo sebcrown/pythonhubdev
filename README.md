@@ -83,9 +83,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
 2. ⬆️ Pushed undefined commit(s) to [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
-3. 🤝 Became collaborator on [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
-4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/github-readme-stats](https://github.com/pythonhubdev/github-readme-stats)
-5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/supertokens-flutter](https://github.com/pythonhubdev/supertokens-flutter)
+3. ⬆️ Pushed undefined commit(s) to [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
+4. 🤝 Became collaborator on [adamglow-app/adam-admin](https://github.com/adamglow-app/adam-admin)
+5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/github-readme-stats](https://github.com/pythonhubdev/github-readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
