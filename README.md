@@ -81,11 +81,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-2. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/virtualenv](https://github.com/pythonhubdev/virtualenv)
+2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pre-commit](https://github.com/pythonhubdev/pre-commit)
 3. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-4. 💪 Opened PR [#2](undefined) in [voxloom/pipecat](https://github.com/voxloom/pipecat)
-5. ❌ Closed PR [#3641](undefined) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+4. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+5. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
