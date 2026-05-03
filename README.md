@@ -83,9 +83,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 2. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-3. 💪 Opened PR [#6](undefined) in [voxloom/pipecat](https://github.com/voxloom/pipecat)
-4. ❌ Closed PR [#4410](undefined) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
-5. 💪 Opened PR [#4410](undefined) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+3. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+4. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+5. 💪 Opened PR [#6](undefined) in [voxloom/pipecat](https://github.com/voxloom/pipecat)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
