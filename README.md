@@ -26,6 +26,8 @@
 </p>
 <!-- Social Badges: End -->
 
+<p align="center"><a href="https://doloffer.com/friend/hop3luWY">🎁 Get Exclusive Deals on DolOffer</a></p>
+
 <!-- About: Start -->
 
 ```yaml
