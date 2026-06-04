@@ -27,6 +27,9 @@
 <!-- Social Badges: End -->
 
 <p align="center"><a href="https://doloffer.com/friend/hop3luWY">🎁 Get Exclusive Deals on DolOffer</a></p>
+<p align="center">
+  <img src="assets/DolOffer.png" alt="DolOffer" width="600">
+</p>
 
 <!-- About: Start -->
 
