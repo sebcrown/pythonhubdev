@@ -89,8 +89,6 @@
 1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
 2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
 3. ⭐ Starred [fonoster/fonoster](https://github.com/fonoster/fonoster)
-4. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-5. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
