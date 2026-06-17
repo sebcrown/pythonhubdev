@@ -86,9 +86,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/pythonhubdev](https://github.com/pythonhubdev/pythonhubdev)
-3. ⭐ Starred [fonoster/fonoster](https://github.com/fonoster/fonoster)
+1. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+2. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+3. ❌ Closed PR [#4799](undefined) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+4. 💪 Opened PR [#4799](undefined) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+5. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
