@@ -86,9 +86,9 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/flutter_ddd_firebase_auth](https://github.com/pythonhubdev/flutter_ddd_firebase_auth)
+1. ⭐ Starred [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)
 2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/flutter_ddd_firebase_auth](https://github.com/pythonhubdev/flutter_ddd_firebase_auth)
-3. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/flutter_ddd_firebase_auth](https://github.com/pythonhubdev/flutter_ddd_firebase_auth)
 4. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 5. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
 <!--RECENT_ACTIVITY:end-->
