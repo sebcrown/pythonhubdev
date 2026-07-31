@@ -87,8 +87,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)
-2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/flutter_ddd_firebase_auth](https://github.com/pythonhubdev/flutter_ddd_firebase_auth)
-3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/flutter_ddd_firebase_auth](https://github.com/pythonhubdev/flutter_ddd_firebase_auth)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
