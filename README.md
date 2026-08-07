@@ -86,7 +86,8 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)
+1. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+2. ⭐ Starred [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
