@@ -86,8 +86,10 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-2. ⭐ Starred [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)
+1. ⭐ Starred [better-auth/better-hub](https://github.com/better-auth/better-hub)
+2. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+4. ⭐ Starred [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
