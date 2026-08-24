@@ -90,7 +90,7 @@
 2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
 3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
 4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
-5. 🔱 Forked [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth) from [surrealdb/better-auth](https://github.com/surrealdb/better-auth)
+5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
