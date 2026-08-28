@@ -86,9 +86,9 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
-2. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
-3. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
+1. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
+2. ⭐ Starred [future-agi/future-agi](https://github.com/future-agi/future-agi)
+3. ⭐ Starred [Godefroy/micdrop](https://github.com/Godefroy/micdrop)
 4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
 5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
 <!--RECENT_ACTIVITY:end-->
