@@ -86,11 +86,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
-2. ⭐ Starred [future-agi/future-agi](https://github.com/future-agi/future-agi)
-3. ⭐ Starred [Godefroy/micdrop](https://github.com/Godefroy/micdrop)
-4. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
-5. ⬆️ Pushed undefined commit(s) to [pythonhubdev/better-auth](https://github.com/pythonhubdev/better-auth)
+1. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+2. ⭐ Starred [keshav-exe/markdown-graphs](https://github.com/keshav-exe/markdown-graphs)
+3. ⭐ Starred [jdx/usage](https://github.com/jdx/usage)
+4. ⭐ Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+5. ⭐ Starred [taishikato/stylexcn](https://github.com/taishikato/stylexcn)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
