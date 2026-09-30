@@ -86,11 +86,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [px0-ai/px0](https://github.com/px0-ai/px0)
-2. ⭐ Starred [lymagics/tanka](https://github.com/lymagics/tanka)
-3. ⭐ Starred [egoist/quickgui](https://github.com/egoist/quickgui)
-4. ⭐ Starred [aicanvas-me/aicanvas](https://github.com/aicanvas-me/aicanvas)
-5. ⭐ Starred [moji2002/1st-pouf](https://github.com/moji2002/1st-pouf)
+1. ⭐ Starred [composio-community/open-dot](https://github.com/composio-community/open-dot)
+2. ⭐ Starred [px0-ai/px0](https://github.com/px0-ai/px0)
+3. ⭐ Starred [lymagics/tanka](https://github.com/lymagics/tanka)
+4. ⭐ Starred [egoist/quickgui](https://github.com/egoist/quickgui)
+5. ⭐ Starred [aicanvas-me/aicanvas](https://github.com/aicanvas-me/aicanvas)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
