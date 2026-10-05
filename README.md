@@ -87,10 +87,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-2. ⭐ Starred [composio-community/open-dot](https://github.com/composio-community/open-dot)
-3. ⭐ Starred [px0-ai/px0](https://github.com/px0-ai/px0)
-4. ⭐ Starred [lymagics/tanka](https://github.com/lymagics/tanka)
-5. ⭐ Starred [egoist/quickgui](https://github.com/egoist/quickgui)
+2. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
+3. ⭐ Starred [composio-community/open-dot](https://github.com/composio-community/open-dot)
+4. ⭐ Starred [px0-ai/px0](https://github.com/px0-ai/px0)
+5. ⭐ Starred [lymagics/tanka](https://github.com/lymagics/tanka)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
