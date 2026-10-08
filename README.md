@@ -86,11 +86,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [unovue/inspira-ui](https://github.com/unovue/inspira-ui)
-2. ⭐ Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
-3. ⭐ Starred [Saurabh-2607/GreatUI](https://github.com/Saurabh-2607/GreatUI)
-4. ⭐ Starred [zeronsh/zeron](https://github.com/zeronsh/zeron)
-5. ⭐ Starred [codse/animata](https://github.com/codse/animata)
+1. ⭐ Starred [thesysdev/openui](https://github.com/thesysdev/openui)
+2. ⭐ Starred [unovue/inspira-ui](https://github.com/unovue/inspira-ui)
+3. ⭐ Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
+4. ⭐ Starred [Saurabh-2607/GreatUI](https://github.com/Saurabh-2607/GreatUI)
+5. ⭐ Starred [zeronsh/zeron](https://github.com/zeronsh/zeron)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
