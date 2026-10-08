@@ -86,11 +86,11 @@
 ### ⚒️ Latest GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-2. ⬆️ Pushed undefined commit(s) to [voxloom/pipecat](https://github.com/voxloom/pipecat)
-3. ⭐ Starred [composio-community/open-dot](https://github.com/composio-community/open-dot)
-4. ⭐ Starred [px0-ai/px0](https://github.com/px0-ai/px0)
-5. ⭐ Starred [lymagics/tanka](https://github.com/lymagics/tanka)
+1. ⭐ Starred [unovue/inspira-ui](https://github.com/unovue/inspira-ui)
+2. ⭐ Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
+3. ⭐ Starred [Saurabh-2607/GreatUI](https://github.com/Saurabh-2607/GreatUI)
+4. ⭐ Starred [zeronsh/zeron](https://github.com/zeronsh/zeron)
+5. ⭐ Starred [codse/animata](https://github.com/codse/animata)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
